@@ -1,0 +1,12 @@
+python-xbrl
+requests
+
+[dev]
+nose
+pyyaml
+requests
+
+[test]
+nose
+pyyaml
+requests

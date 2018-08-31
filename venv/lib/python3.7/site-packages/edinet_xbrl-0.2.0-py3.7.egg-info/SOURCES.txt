@@ -1,0 +1,16 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+edinet_xbrl/__init__.py
+edinet_xbrl/edinet_data_util.py
+edinet_xbrl/edinet_xbrl_downloader.py
+edinet_xbrl/edinet_xbrl_object.py
+edinet_xbrl/edinet_xbrl_parser.py
+edinet_xbrl/ufocatcher_util.py
+edinet_xbrl.egg-info/PKG-INFO
+edinet_xbrl.egg-info/SOURCES.txt
+edinet_xbrl.egg-info/dependency_links.txt
+edinet_xbrl.egg-info/requires.txt
+edinet_xbrl.egg-info/top_level.txt

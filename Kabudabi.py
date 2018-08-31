@@ -9,14 +9,15 @@ account = {
 config = {
     "headless": True,
     "debug": True,
-    "driverPath": "./venv/chromedriver-Darwin"
+    "driverPath": "./venv/chromedriver"
 }
 
 td = TradeDerPy(account, config)
 td.open()
 td.login()
 
-td.getStatus()
-td.showStatus()
+td.showHold()
+
+td.getSuggested()
 
 td.close()
