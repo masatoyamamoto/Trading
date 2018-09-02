@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:jpdei_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor" xmlns:jpcrp-esr_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp-esr/2015-04-30/jpcrp-esr_cor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <link:schemaRef xlink:type="simple" xlink:href="jpcrp050300-esr-001_E02528-000_2017-07-06_01_2017-07-06.xsd"/>
+  <xbrli:context id="FilingDateInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E02528-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2017-07-06</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+  <xbrli:unit id="pure">
+<xbrli:measure>xbrli:pure</xbrli:measure>
+</xbrli:unit>
+  <jpdei_cor:NumberOfSubmissionDEI contextRef="FilingDateInstant" unitRef="pure" decimals="0">1</jpdei_cor:NumberOfSubmissionDEI>
+  <jpcrp-esr_cor:DocumentTitleCoverPage contextRef="FilingDateInstant">臨時報告書</jpcrp-esr_cor:DocumentTitleCoverPage>
+  <jpcrp-esr_cor:PlaceOfFilingCoverPage contextRef="FilingDateInstant">関東財務局長</jpcrp-esr_cor:PlaceOfFilingCoverPage>
+  <jpcrp-esr_cor:FilingDateCoverPage contextRef="FilingDateInstant">2017-07-06</jpcrp-esr_cor:FilingDateCoverPage>
+  <jpcrp-esr_cor:CompanyNameCoverPage contextRef="FilingDateInstant">住友商事株式会社</jpcrp-esr_cor:CompanyNameCoverPage>
+  <jpcrp-esr_cor:CompanyNameInEnglishCoverPage contextRef="FilingDateInstant">SUMITOMO CORPORATION</jpcrp-esr_cor:CompanyNameInEnglishCoverPage>
+  <jpcrp-esr_cor:TitleAndNameOfRepresentativeCoverPage contextRef="FilingDateInstant">代表取締役 社長執行役員 CEO  中村  邦晴</jpcrp-esr_cor:TitleAndNameOfRepresentativeCoverPage>
+  <jpcrp-esr_cor:AddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">東京都中央区晴海1丁目8番11号</jpcrp-esr_cor:AddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp-esr_cor:TelephoneNumberCoverPage contextRef="FilingDateInstant">(03)5166-5000</jpcrp-esr_cor:TelephoneNumberCoverPage>
+  <jpcrp-esr_cor:NameOfContactPersonCoverPage contextRef="FilingDateInstant">主計部長  菅井  博之</jpcrp-esr_cor:NameOfContactPersonCoverPage>
+  <jpcrp-esr_cor:NearestPlaceOfContactCoverPage contextRef="FilingDateInstant">東京都中央区晴海1丁目8番11号</jpcrp-esr_cor:NearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:TelephoneNumberNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">(03)5166-5000</jpcrp-esr_cor:TelephoneNumberNearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:NameOfContactPersonNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">主計部長  菅井  博之</jpcrp-esr_cor:NameOfContactPersonNearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:PlaceForPublicInspectionCoverPageTextBlock contextRef="FilingDateInstant">
+&lt;p style="margin-top: 3px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;住友商事株式会社  関西支社（大阪）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（大阪市中央区北浜4丁目5番33号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;住友商事株式会社  中部支社（名古屋）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（名古屋市中村区名駅1丁目1番3号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;住友商事株式会社  九州支社（福岡）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（福岡市博多区博多駅前3丁目30番23号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;株式会社東京証券取引所&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（東京都中央区日本橋兜町2番1号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;株式会社名古屋証券取引所&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（名古屋市中区栄3丁目8番20号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;証券会員制法人福岡証券取引所&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（福岡市中央区天神2丁目14番2号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+&lt;p style="margin-bottom: 3px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（注）上記のうち、九州支社（福岡）は、法定の縦覧場所ではありませんが、投資者の便宜を考慮して縦覧に供する場所としております。&lt;/span&gt;
+&lt;/p&gt;
+</jpcrp-esr_cor:PlaceForPublicInspectionCoverPageTextBlock>
+  <jpdei_cor:EDINETCodeDEI contextRef="FilingDateInstant">E02528</jpdei_cor:EDINETCodeDEI>
+  <jpdei_cor:FundCodeDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:SecurityCodeDEI contextRef="FilingDateInstant">80530</jpdei_cor:SecurityCodeDEI>
+  <jpdei_cor:FilerNameInJapaneseDEI contextRef="FilingDateInstant">住友商事株式会社</jpdei_cor:FilerNameInJapaneseDEI>
+  <jpdei_cor:FilerNameInEnglishDEI contextRef="FilingDateInstant">SUMITOMO CORPORATION</jpdei_cor:FilerNameInEnglishDEI>
+  <jpdei_cor:FundNameInJapaneseDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:FundNameInEnglishDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CabinetOfficeOrdinanceDEI contextRef="FilingDateInstant">企業内容等の開示に関する内閣府令</jpdei_cor:CabinetOfficeOrdinanceDEI>
+  <jpdei_cor:DocumentTypeDEI contextRef="FilingDateInstant">第五号の三様式</jpdei_cor:DocumentTypeDEI>
+  <jpdei_cor:AccountingStandardsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:WhetherConsolidatedFinancialStatementsArePreparedDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenConsolidatedFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentPeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:TypeOfCurrentPeriodDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ComparativePeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:NextFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:EndDateOfQuarterlyOrSemiAnnualPeriodOfNextFiscalYearDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:AmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:AmendmentFlagDEI>
+  <jpdei_cor:IdentificationOfDocumentSubjectToAmendmentDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ReportAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:ReportAmendmentFlagDEI>
+  <jpdei_cor:XBRLAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:XBRLAmendmentFlagDEI>
+  <jpcrp-esr_cor:ReasonForFilingTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;１【提出理由】&lt;/h3&gt;
+&lt;p style="text-align: justify; text-justify: inter-ideograph"&gt;
+&lt;span style="font-size: 12px"&gt;　&lt;/span&gt;当社において特定子会社の異動がありましたので、金融商品取引法第24条の5第4項及び企業内容等の開示に関する内閣府令第19条第2項3号の規程に基づき、臨時報告書を提出するものであります。&lt;/p&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt; &lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp-esr_cor:ReasonForFilingTextBlock>
+  <jpcrp-esr_cor:ChangesInParentCompaniesOrSpecifiedSubsidiariesTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;２【報告内容】&lt;/h3&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;(1）当&lt;/span&gt;&lt;span style="font-size: 12px"&gt;該異動に係る特定子会社の名称、住所、代表者の氏名、資本金及び事業の内容&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;①　名称　　　　&lt;/span&gt;&lt;span style="font-size: 12px"&gt;USPO Miami, LLC&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;②　住所　　　　&lt;/span&gt;&lt;span style="font-size: 12px"&gt;300 Madison Avenue New York, NY 10017&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px; font-weight: normal"&gt;③　代表者氏名　&lt;/span&gt;&lt;span style="font-size: 12px"&gt;President  Tomonori Wada&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;④　資本金　　　&lt;/span&gt;&lt;span style="font-size: 12px"&gt;218,604千USドル（異動前）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;⑤　事業の内容　&lt;/span&gt;&lt;span style="font-size: 12px"&gt;不動産事業&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left; text-indent: -12px"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;(2）&lt;/span&gt;&lt;span style="font-size: 12px"&gt;当該異動の前後における当社の所有に係る当該特定子会社の議決権の数及び当該特定子会社の総株主等の議決権に&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left; text-indent: -12px"&gt;
+&lt;span style="font-size: 12px"&gt;　　対する割合&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;①　当社の所有に係る議決権の数&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 47.2000007629395px; text-align: justify; text-justify: inter-ideograph"&gt;
+&lt;span style="font-size: 12px"&gt;異動前　10,000個&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 47.2000007629395px; text-align: justify; text-justify: inter-ideograph"&gt;
+&lt;span style="font-size: 12px"&gt;（うち、間接保有分10,000個）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 47.2000007629395px; text-align: justify; text-justify: inter-ideograph"&gt;
+&lt;span style="font-size: 12px"&gt;異動後　 3,890個&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;（うち、間接保有分3,890個）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt; &lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;②　総株主等の議決権に対する割合&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 47.2666664123535px; text-align: justify; text-justify: inter-ideograph"&gt;
+&lt;span style="font-weight: normal"&gt;異動前　100%&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 47.2666664123535px; text-align: justify; text-justify: inter-ideograph"&gt;
+&lt;span style="font-weight: normal"&gt;（うち、間接保有分100%）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 47.2666664123535px; text-align: justify; text-justify: inter-ideograph"&gt;異動後　38.9%&lt;/p&gt;
+&lt;p style="margin-left: 47.2666664123535px; text-align: justify; text-justify: inter-ideograph"&gt;（うち、間接保有分38.9%）&lt;/p&gt;
+&lt;p style="margin-left: 96px; text-align: left; text-indent: -48px"&gt; &lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;(3）当該異動の理由及びその年月日&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 132px; text-align: justify; text-justify: inter-ideograph; text-indent: -108px"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;①　異動の理由&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 132px; text-align: justify; text-justify: inter-ideograph; text-indent: -108px"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;　　&lt;/span&gt;&lt;span style="font-size: 12px"&gt;USPO Miami, LLCは、当社の連結子会社であるSumitomo Corporation of Americasが不動産事業を行ううえで、&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 132px; text-align: justify; text-justify: inter-ideograph; text-indent: -108px"&gt;
+&lt;span style="font-size: 12px"&gt;　　不動産を保有することを目的に設立され、2016年5月19日付の増資払込により、特定子会社となりましたが、&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 132px; text-align: justify; text-justify: inter-ideograph; text-indent: -108px"&gt;
+&lt;span style="font-size: 12px"&gt;　　今般、&lt;/span&gt;&lt;span style="font-size: 12px; font-weight: normal"&gt;当該会社の投資口持分61.1%を譲渡したことから、特定子会社に該当しないこととなりました。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 132px; text-align: justify; text-justify: inter-ideograph; text-indent: -108px"&gt; &lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;②　異動の年月日&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;　　&lt;/span&gt;&lt;span style="font-size: 12px"&gt;譲渡実行日　平成29年6月29日（米国東部時間）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+&lt;p style="text-align: right"&gt;以　上&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp-esr_cor:ChangesInParentCompaniesOrSpecifiedSubsidiariesTextBlock>
+</xbrli:xbrl>

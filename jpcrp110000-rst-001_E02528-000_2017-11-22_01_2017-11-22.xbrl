@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:jpcrp110000-rst_E02528-000="http://disclosure.edinet-fsa.go.jp/jpcrp110000/rst/001/E02528-000/2017-11-22/01/2017-11-22" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:jpcrp_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2017-02-28/jpcrp_cor" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:jpdei_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor">
+  <link:schemaRef xlink:type="simple" xlink:href="jpcrp110000-rst-001_E02528-000_2017-11-22_01_2017-11-22.xsd"/>
+  <xbrli:context id="FilingDateInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E02528-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2017-11-22</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+  <xbrli:unit id="pure">
+<xbrli:measure>xbrli:pure</xbrli:measure>
+</xbrli:unit>
+  <jpdei_cor:NumberOfSubmissionDEI contextRef="FilingDateInstant" unitRef="pure" decimals="0">1</jpdei_cor:NumberOfSubmissionDEI>
+  <jpcrp_cor:ShelfRegistrationNumberCoverPage contextRef="FilingDateInstant">29－関東１</jpcrp_cor:ShelfRegistrationNumberCoverPage>
+  <jpcrp_cor:DocumentTitleCoverPage contextRef="FilingDateInstant">発行登録書</jpcrp_cor:DocumentTitleCoverPage>
+  <jpcrp_cor:PlaceOfFilingCoverPage contextRef="FilingDateInstant">関東財務局長</jpcrp_cor:PlaceOfFilingCoverPage>
+  <jpcrp_cor:FilingDateCoverPage contextRef="FilingDateInstant">2017-11-22</jpcrp_cor:FilingDateCoverPage>
+  <jpcrp_cor:CompanyNameCoverPage contextRef="FilingDateInstant">住友商事株式会社</jpcrp_cor:CompanyNameCoverPage>
+  <jpcrp_cor:CompanyNameInEnglishCoverPage contextRef="FilingDateInstant">SUMITOMO CORPORATION</jpcrp_cor:CompanyNameInEnglishCoverPage>
+  <jpcrp_cor:TitleAndNameOfRepresentativeCoverPage contextRef="FilingDateInstant">代表取締役 社長執行役員 CEO　　中村　邦晴</jpcrp_cor:TitleAndNameOfRepresentativeCoverPage>
+  <jpcrp_cor:AddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">東京都中央区晴海１丁目８番11号</jpcrp_cor:AddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp_cor:TelephoneNumberAddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">(03)5166－5000</jpcrp_cor:TelephoneNumberAddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp_cor:NameOfContactPersonAddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">財務部長　　塩見　勝</jpcrp_cor:NameOfContactPersonAddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp_cor:NearestPlaceOfContactCoverPage contextRef="FilingDateInstant">東京都中央区晴海１丁目８番11号</jpcrp_cor:NearestPlaceOfContactCoverPage>
+  <jpcrp_cor:TelephoneNumberNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">(03)5166－5000</jpcrp_cor:TelephoneNumberNearestPlaceOfContactCoverPage>
+  <jpcrp_cor:NameOfContactPersonNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">財務部長　　塩見　勝</jpcrp_cor:NameOfContactPersonNearestPlaceOfContactCoverPage>
+  <jpcrp_cor:TypesOfSecuritiesToShelfRegisterForOfferingOrDistributionCoverPage contextRef="FilingDateInstant">社債</jpcrp_cor:TypesOfSecuritiesToShelfRegisterForOfferingOrDistributionCoverPage>
+  <jpcrp_cor:PlannedPeriodOfIssueCoverPage contextRef="FilingDateInstant">この発行登録書による発行登録の効力発生予定日（2017年12月１日）から２年を経過する日（2019年11月30日）まで</jpcrp_cor:PlannedPeriodOfIssueCoverPage>
+  <jpcrp_cor:PlannedAmountOfIssueOrLimitOnOutstandingBalanceCoverPageTextBlock contextRef="FilingDateInstant">&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;発行予定額　200,000百万円&lt;/span&gt;</jpcrp_cor:PlannedAmountOfIssueOrLimitOnOutstandingBalanceCoverPageTextBlock>
+  <jpcrp_cor:MattersSpecificToStabilizingOperationCoverPageNA contextRef="FilingDateInstant">該当事項はありません。</jpcrp_cor:MattersSpecificToStabilizingOperationCoverPageNA>
+  <jpcrp_cor:PlaceForPublicInspectionCoverPageTextBlock contextRef="FilingDateInstant">
+&lt;p style="margin-top: 3px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;住友商事株式会社　関西支社（大阪）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（大阪市中央区北浜４丁目５番33号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;住友商事株式会社　中部支社（名古屋）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（名古屋市中村区名駅１丁目１番３号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;住友商事株式会社　九州支社（福岡）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（福岡市博多区博多駅前３丁目30番23号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;株式会社東京証券取引所&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（東京都中央区日本橋兜町２番１号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;株式会社名古屋証券取引所&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（名古屋市中区栄３丁目８番20号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;証券会員制法人福岡証券取引所&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-bottom: 3px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（福岡市中央区天神２丁目14番２号）&lt;/span&gt;
+&lt;/p&gt;
+</jpcrp_cor:PlaceForPublicInspectionCoverPageTextBlock>
+  <jpcrp110000-rst_E02528-000:NotesCoverPageTextBlock contextRef="FilingDateInstant">（注）  上記のうち、九州支社（福岡）は、法定の縦覧場所ではありませんが、投資者の便宜を考慮して縦覧に供する場所としております。</jpcrp110000-rst_E02528-000:NotesCoverPageTextBlock>
+  <jpdei_cor:EDINETCodeDEI contextRef="FilingDateInstant">E02528</jpdei_cor:EDINETCodeDEI>
+  <jpdei_cor:FundCodeDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:SecurityCodeDEI contextRef="FilingDateInstant">80530</jpdei_cor:SecurityCodeDEI>
+  <jpdei_cor:FilerNameInJapaneseDEI contextRef="FilingDateInstant">住友商事株式会社</jpdei_cor:FilerNameInJapaneseDEI>
+  <jpdei_cor:FilerNameInEnglishDEI contextRef="FilingDateInstant">SUMITOMO CORPORATION</jpdei_cor:FilerNameInEnglishDEI>
+  <jpdei_cor:FundNameInJapaneseDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:FundNameInEnglishDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CabinetOfficeOrdinanceDEI contextRef="FilingDateInstant">企業内容等の開示に関する内閣府令</jpdei_cor:CabinetOfficeOrdinanceDEI>
+  <jpdei_cor:DocumentTypeDEI contextRef="FilingDateInstant">第十一号様式</jpdei_cor:DocumentTypeDEI>
+  <jpdei_cor:AccountingStandardsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:WhetherConsolidatedFinancialStatementsArePreparedDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenConsolidatedFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentPeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:TypeOfCurrentPeriodDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ComparativePeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:NextFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:EndDateOfQuarterlyOrSemiAnnualPeriodOfNextFiscalYearDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:AmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:AmendmentFlagDEI>
+  <jpdei_cor:IdentificationOfDocumentSubjectToAmendmentDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ReportAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:ReportAmendmentFlagDEI>
+  <jpdei_cor:XBRLAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:XBRLAmendmentFlagDEI>
+  <jpcrp_cor:NewIssuanceOfCorporateBondsTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;１【新規発行社債】&lt;/h3&gt;
+&lt;p style="margin-left: 36px; text-align: left"&gt;未定&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:NewIssuanceOfCorporateBondsTextBlock>
+  <jpcrp_cor:UnderwritingOfBondsAndAppointmentOfBondAdministratorTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;２【社債の引受け及び社債管理の委託】&lt;/h3&gt;
+&lt;p style="margin-left: 36px; text-align: left"&gt;未定&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:UnderwritingOfBondsAndAppointmentOfBondAdministratorTextBlock>
+  <jpcrp_cor:AmountOfNetProceedsFromNewIssuanceTextBlock contextRef="FilingDateInstant">
+&lt;h4&gt;（１）【新規発行による手取金の額】&lt;/h4&gt;
+&lt;p style="margin-left: 72px; text-align: left"&gt;未定&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:AmountOfNetProceedsFromNewIssuanceTextBlock>
+  <jpcrp_cor:UseOfNetProceedsTextBlock contextRef="FilingDateInstant">
+&lt;h4&gt;（２）【手取金の使途】&lt;/h4&gt;
+&lt;p style="margin-left: 60px; text-align: left"&gt;　運転資金、借入金返済・社債償還資金、有価証券の取得、関係会社に対する出資又は融資、その他商事活動に必要な資金に充当する予定であります。&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:UseOfNetProceedsTextBlock>
+  <jpcrp_cor:ParticularsOfSecondaryDistributionNATextBlock contextRef="FilingDateInstant">
+&lt;h2&gt;第２【売出要項】&lt;/h2&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;　該当事項はありません。&lt;/p&gt;
+</jpcrp_cor:ParticularsOfSecondaryDistributionNATextBlock>
+  <jpcrp_cor:OtherInformationSecurityInformationNATextBlock contextRef="FilingDateInstant">
+&lt;h2&gt;第３【その他の記載事項】&lt;/h2&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;　該当事項はありません。&lt;/p&gt;
+</jpcrp_cor:OtherInformationSecurityInformationNATextBlock>
+  <jpcrp_cor:AnnualSecuritiesReportAndAttachedDocumentsReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;１【有価証券報告書及びその添付書類】&lt;/h3&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;　事業年度　第149期（自　2016年４月１日　至　2017年３月31日）2017年６月23日関東財務局長に提出&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;　事業年度　第150期（自　2017年４月１日　至　2018年３月31日）2018年７月２日までに関東財務局長に提出予定&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;　事業年度　第151期（自　2018年４月１日　至　2019年３月31日）2019年７月１日までに関東財務局長に提出予定&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:AnnualSecuritiesReportAndAttachedDocumentsReferenceDocumentsTextBlock>
+  <jpcrp_cor:QuarterlySecuritiesReportOrSemiAnnualSecuritiesReportReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;２【四半期報告書又は半期報告書】&lt;/h3&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-weight: normal"&gt;　事業年度　&lt;/span&gt;第150期第１四半期（自　2017年４月１日　至　2017年６月30日）&lt;span style="font-weight: normal"&gt;2017年８月７日関東財務局長に提出&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-weight: normal"&gt;　事業年度　第150期第２四半期（自　2017年７月１日　至　2017年９月30日）2017年11月７日関東財務局長に提出&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-weight: normal"&gt;　事業年度　第150期第３四半期（自　2017年10月１日　至　2017年12月31日）2018年２月14日までに関東財務局長に提出予定&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;　事業年度　第151期第１四半期（自　2018年４月１日　至　2018年６月30日）2018年８月14日&lt;span style="font-weight: normal"&gt;までに&lt;/span&gt;関東財務局長に提出&lt;span style="font-weight: normal"&gt;予定&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-weight: normal"&gt;　事業年度　第&lt;/span&gt;151&lt;span style="font-weight: normal"&gt;期第２四半期（自　&lt;/span&gt;2018&lt;span style="font-weight: normal"&gt;年７月１日　至　&lt;/span&gt;2018&lt;span style="font-weight: normal"&gt;年９月30日）&lt;/span&gt;2018&lt;span style="font-weight: normal"&gt;年11月14日までに関東財務局長に提出予定&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-weight: normal"&gt;　事業年度　第&lt;/span&gt;151&lt;span style="font-weight: normal"&gt;期第３四半期（自　&lt;/span&gt;2018&lt;span style="font-weight: normal"&gt;年10月１日　至　&lt;/span&gt;2018&lt;span style="font-weight: normal"&gt;年12月31日）2019年２月14日までに関東財務局長に提出予定&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;　事業年度　第152期第１四半期（自　2019年４月１日　至　2019年６月30日）&lt;span style="font-weight: normal"&gt;2019&lt;/span&gt;年８月14日&lt;span style="font-weight: normal"&gt;までに&lt;/span&gt;関東財務局長に提出&lt;span style="font-weight: normal"&gt;予定&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-weight: normal"&gt;　事業年度　第&lt;/span&gt;152&lt;span style="font-weight: normal"&gt;期第２四半期（自　&lt;/span&gt;2019&lt;span style="font-weight: normal"&gt;年７月１日　至　&lt;/span&gt;2019&lt;span style="font-weight: normal"&gt;年９月30日）2019年11月14日までに関東財務局長に提出予定&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:QuarterlySecuritiesReportOrSemiAnnualSecuritiesReportReferenceDocumentsTextBlock>
+  <jpcrp_cor:ExtraordinarySecuritiesReportReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;３【臨時報告書】&lt;/h3&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;　１の有価証券報告書提出後、本発行登録書提出日（2017年11月22日）までに、&lt;span style="font-size: 12px"&gt;金融商品取引法第24条の５第４項及び企業内容等の開示に関する内閣府令第19条第２項第９号の２の規定に基づく&lt;/span&gt;臨時報告書を2017年６月27日に関東財務局長に提出&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:ExtraordinarySecuritiesReportReferenceDocumentsTextBlock>
+  <jpcrp110000-rst_E02528-000:ExtraordinarySecuritiesReportReferenceDocuments2TextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;４【臨時報告書】&lt;/h3&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;　１の有価証券報告書提出後、本発行登録書提出日（2017年11月22日）までに、&lt;span style="font-size: 12px"&gt;金融商品取引法第24条の５第４項及び企業内容等の開示に関する内閣府令第19条第２項第３号の規定に基づく&lt;/span&gt;臨時報告書を2017年７月６日に関東財務局長に提出&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt; &lt;/p&gt;
+</jpcrp110000-rst_E02528-000:ExtraordinarySecuritiesReportReferenceDocuments2TextBlock>
+  <jpcrp110000-rst_E02528-000:ExtraordinarySecuritiesReportReferenceDocuments3TextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;５【臨時報告書】&lt;/h3&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;　１の有価証券報告書提出後、本発行登録書提出日（2017年11月22日）までに、&lt;span style="font-size: 12px"&gt;金融商品取引法第24条の５第４項及び企業内容等の開示に関する内閣府令第19条第２項第２号の２の規定に基づく&lt;/span&gt;臨時報告書を2017年７月31日に関東財務局長に提出&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt; &lt;/p&gt;
+</jpcrp110000-rst_E02528-000:ExtraordinarySecuritiesReportReferenceDocuments3TextBlock>
+  <jpcrp110000-rst_E02528-000:ExtraordinarySecuritiesReportReferenceDocuments4TextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;６【臨時報告書】&lt;/h3&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;　１の有価証券報告書提出後、本発行登録書提出日（2017年11月22日）までに、&lt;span style="font-size: 12px"&gt;金融商品取引法第24条の５第４項及び企業内容等の開示に関する内閣府令第19条第２項第３号の規定に基づく&lt;/span&gt;臨時報告書を2017年９月29日に関東財務局長に提出&lt;/p&gt;
+</jpcrp110000-rst_E02528-000:ExtraordinarySecuritiesReportReferenceDocuments4TextBlock>
+  <jpcrp_cor:SupplementaryInformationAboutReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h2&gt;第２【参照書類の補完情報】&lt;/h2&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;　参照書類としての有価証券報告書（事業年度　第149期）及び四半期報告書（事業年度　第150期第１四半期及び第２四半期）（以下「有価証券報告書等」という）に記載された「事業等のリスク」について、有価証券報告書等の提出日以後、本発行登録書提出日（2017年11月22日）までの間において生じた変更その他の事由はありません。&lt;br/&gt;　また、有価証券報告書等には将来に関する事項が記載されておりますが、当該事項は本発行登録書提出日現在においてもその判断に変更はなく、新たに記載する将来に関する事項もありません。&lt;br/&gt;　なお、文中における将来に関する情報は、将来の事象についての現時点における仮定及び予想、並びに当社が現時点で入手している情報や一定の前提に基づいているため、今後の四囲の状況等により変化を余儀なくされるものであり、これらの目標や予想の達成及び将来の業績を保証するものではありません。従って、これらの情報に全面的に依拠されることは控えられ、また、当社がこれらの情報を逐次改訂する義務を負うものではないことをご認識いただくようお願い申し上げます。&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:SupplementaryInformationAboutReferenceDocumentsTextBlock>
+  <jpcrp_cor:PlaceForPublicInspectionOfReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h2&gt;第３【参照書類を縦覧に供している場所】&lt;/h2&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;住友商事株式会社　本店&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;（東京都中央区晴海１丁目８番11号）&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;住友商事株式会社　関西支社（大阪）&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;（大阪市中央区北浜４丁目５番33号）&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;住友商事株式会社　中部支社（名古屋）&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;（名古屋市中村区名駅１丁目１番３号）&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;住友商事株式会社　九州支社（福岡）&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;（福岡市博多区博多駅前３丁目30番23号）&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;株式会社東京証券取引所&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;（東京都中央区日本橋兜町２番１号）&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;株式会社名古屋証券取引所&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;（名古屋市中区栄３丁目８番20号）&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;証券会員制法人福岡証券取引所&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-weight: normal"&gt;（福岡市中央区天神２丁目14番２号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -60px"&gt;
+&lt;span style="font-weight: normal"&gt;　（注）　上記のうち、九州支社（福岡）は、法定の縦覧場所ではありませんが、投資者の便宜を考慮して縦覧に供する場所としております。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:PlaceForPublicInspectionOfReferenceDocumentsTextBlock>
+  <jpcrp_cor:InformationAboutGuaranteeCompanyEtcNATextBlock contextRef="FilingDateInstant">
+&lt;h1&gt;第三部【保証会社等の情報】&lt;/h1&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;　該当事項はありません。&lt;/p&gt;
+</jpcrp_cor:InformationAboutGuaranteeCompanyEtcNATextBlock>
+</xbrli:xbrl>

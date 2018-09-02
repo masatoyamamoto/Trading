@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jpcrp050300-esr_E02528-000="http://disclosure.edinet-fsa.go.jp/jpcrp050300/esr/001/E02528-000/2017-02-07/01/2017-02-07" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:jpdei_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor" xmlns:jpcrp-esr_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp-esr/2015-04-30/jpcrp-esr_cor">
+  <link:schemaRef xlink:type="simple" xlink:href="jpcrp050300-esr-001_E02528-000_2017-02-07_01_2017-02-07.xsd"/>
+  <xbrli:context id="FilingDateInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E02528-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2017-02-07</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+  <xbrli:unit id="pure">
+<xbrli:measure>xbrli:pure</xbrli:measure>
+</xbrli:unit>
+  <jpdei_cor:NumberOfSubmissionDEI contextRef="FilingDateInstant" unitRef="pure" decimals="0">1</jpdei_cor:NumberOfSubmissionDEI>
+  <jpcrp-esr_cor:DocumentTitleCoverPage contextRef="FilingDateInstant">臨時報告書</jpcrp-esr_cor:DocumentTitleCoverPage>
+  <jpcrp-esr_cor:PlaceOfFilingCoverPage contextRef="FilingDateInstant">関東財務局長</jpcrp-esr_cor:PlaceOfFilingCoverPage>
+  <jpcrp-esr_cor:FilingDateCoverPage contextRef="FilingDateInstant">2017-02-07</jpcrp-esr_cor:FilingDateCoverPage>
+  <jpcrp-esr_cor:CompanyNameCoverPage contextRef="FilingDateInstant">住友商事株式会社</jpcrp-esr_cor:CompanyNameCoverPage>
+  <jpcrp-esr_cor:CompanyNameInEnglishCoverPage contextRef="FilingDateInstant">SUMITOMO CORPORATION</jpcrp-esr_cor:CompanyNameInEnglishCoverPage>
+  <jpcrp-esr_cor:TitleAndNameOfRepresentativeCoverPage contextRef="FilingDateInstant">取締役社長  中村  邦晴</jpcrp-esr_cor:TitleAndNameOfRepresentativeCoverPage>
+  <jpcrp-esr_cor:AddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">東京都中央区晴海1丁目8番11号</jpcrp-esr_cor:AddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp-esr_cor:TelephoneNumberCoverPage contextRef="FilingDateInstant">(03)5166-5000</jpcrp-esr_cor:TelephoneNumberCoverPage>
+  <jpcrp-esr_cor:NameOfContactPersonCoverPage contextRef="FilingDateInstant">主計部長  諸岡  礼二</jpcrp-esr_cor:NameOfContactPersonCoverPage>
+  <jpcrp-esr_cor:NearestPlaceOfContactCoverPage contextRef="FilingDateInstant">東京都中央区晴海1丁目8番11号</jpcrp-esr_cor:NearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:TelephoneNumberNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">(03)5166-5000</jpcrp-esr_cor:TelephoneNumberNearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:NameOfContactPersonNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">主計部長  諸岡  礼二</jpcrp-esr_cor:NameOfContactPersonNearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:PlaceForPublicInspectionCoverPageTextBlock contextRef="FilingDateInstant">
+&lt;p style="margin-top: 3px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;住友商事株式会社  関西支社（大阪）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（大阪市中央区北浜4丁目5番33号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;住友商事株式会社  中部支社（名古屋）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（名古屋市東区東桜1丁目1番6号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;住友商事株式会社  九州支社（福岡）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（福岡市博多区博多駅前3丁目30番23号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;株式会社東京証券取引所&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（東京都中央区日本橋兜町2番1号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;株式会社名古屋証券取引所&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（名古屋市中区栄3丁目8番20号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;証券会員制法人福岡証券取引所&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-bottom: 3px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（福岡市中央区天神2丁目14番2号）&lt;/span&gt;
+&lt;/p&gt;
+</jpcrp-esr_cor:PlaceForPublicInspectionCoverPageTextBlock>
+  <jpcrp050300-esr_E02528-000:NotesCoverPageTextBlock contextRef="FilingDateInstant">
+&lt;p style="margin-left: 61.3300018310547px; text-align: justify; text-justify: inter-ideograph; text-indent: -61.3300018310547px"&gt;　（注）１  上記のうち、&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;中部支社（名古屋）&lt;/span&gt;は、&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;2017年2月13日から下記に移転&lt;/span&gt;する予定であります。&lt;/p&gt;
+&lt;p style="margin-left: 60px; text-align: justify; text-justify: inter-ideograph; text-indent: -24px"&gt;　    &lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;名古屋市中村区名駅1丁目1番3号&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 60px; text-align: justify; text-justify: inter-ideograph; text-indent: -24px"&gt;　２  上記のうち、九州支社（福岡）は、法定の縦覧場所ではありませんが、投資者の便宜を考慮して縦覧に&lt;/p&gt;
+&lt;p style="margin-left: 60px; text-align: justify; text-justify: inter-ideograph; text-indent: -24px"&gt;　　　供する場所としております。&lt;/p&gt;
+</jpcrp050300-esr_E02528-000:NotesCoverPageTextBlock>
+  <jpdei_cor:EDINETCodeDEI contextRef="FilingDateInstant">E02528</jpdei_cor:EDINETCodeDEI>
+  <jpdei_cor:FundCodeDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:SecurityCodeDEI contextRef="FilingDateInstant">80530</jpdei_cor:SecurityCodeDEI>
+  <jpdei_cor:FilerNameInJapaneseDEI contextRef="FilingDateInstant">住友商事株式会社</jpdei_cor:FilerNameInJapaneseDEI>
+  <jpdei_cor:FilerNameInEnglishDEI contextRef="FilingDateInstant">SUMITOMO CORPORATION</jpdei_cor:FilerNameInEnglishDEI>
+  <jpdei_cor:FundNameInJapaneseDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:FundNameInEnglishDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CabinetOfficeOrdinanceDEI contextRef="FilingDateInstant">企業内容等の開示に関する内閣府令</jpdei_cor:CabinetOfficeOrdinanceDEI>
+  <jpdei_cor:DocumentTypeDEI contextRef="FilingDateInstant">第五号の三様式</jpdei_cor:DocumentTypeDEI>
+  <jpdei_cor:AccountingStandardsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:WhetherConsolidatedFinancialStatementsArePreparedDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenConsolidatedFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentPeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:TypeOfCurrentPeriodDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ComparativePeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:NextFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:EndDateOfQuarterlyOrSemiAnnualPeriodOfNextFiscalYearDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:AmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:AmendmentFlagDEI>
+  <jpdei_cor:IdentificationOfDocumentSubjectToAmendmentDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ReportAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:ReportAmendmentFlagDEI>
+  <jpdei_cor:XBRLAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:XBRLAmendmentFlagDEI>
+  <jpcrp-esr_cor:ReasonForFilingTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;１【提出理由】&lt;/h3&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;　当社及び連結会社の財政状態、経営成績及びキャッシュ・フローの状況に著しい影響を与える事象が発生いたしましたので、金融商品取引法第24条の5第4項及び企業内容等の開示に関する内閣府令第19条第2項第12号及び19号の規定に基づき提出するものであります。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp-esr_cor:ReasonForFilingTextBlock>
+  <jpcrp-esr_cor:EventWithSignificantEffectsOnFinancialPositionBusinessPerformanceAndCashFlowsTextBlock contextRef="FilingDateInstant">
+
+&lt;h3&gt;２【報告内容】&lt;/h3&gt;
+&lt;p style="line-height: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;　(1)当該事象の発生年月日&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 28.3333339691162px; line-height: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;平成29年2月7日&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="line-height: 24px; text-align: left"&gt; &lt;/p&gt;
+&lt;p style="line-height: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;　(2)当該事象の内容&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 18.8666667938232px; text-align: justify; text-justify: inter-ideograph; text-indent: 9.26666641235352px"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;当社は、2011年、シエラゴルダ　チリ銅・モリブデン事業に参画しました。鉱山の運営はシエラゴルダ鉱山社（本社：チリ共和国サンチャゴ市、以下「鉱山運営会社」）が行い、当社と住友金属鉱山株式会社（本社：東京都港区）との合弁会社であるエスエムエム　シエラゴルダ　インベルシオネス社（本社：チリ共和国サンチャゴ市、以下「合弁会社」）が鉱山運営会社に45%の出資を行い、KGHM Polska Miedz S.A.（本社：ポーランド共和国ルビン市）と共同で事業を行っております。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 18.8666667938232px; text-align: justify; text-justify: inter-ideograph; text-indent: 9.26666641235352px"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;当社は100%子会社であるインベルシオネス　エスシー　シエラゴルダ社（本社：チリ共和国サンチャゴ市）を通じ、合弁会社へ30%の出資を行っております。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 18.8666667938232px; text-align: justify; text-justify: inter-ideograph; text-indent: 9.26666641235352px"&gt; &lt;/p&gt;
+&lt;p style="margin-left: 18.8666667938232px; text-align: justify; text-justify: inter-ideograph; text-indent: 9.26666641235352px"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;鉱山運営会社は、足元の操業実績や中・長期の銅価格の動向を踏まえて、長期事業計画の見直しを行った結果、保有する固定資産の全額を回収することは困難と判断し、回収可能価額まで減損損失を計上することになりました。これに伴い、平成29年3月期第3四半期決算（平成28年10月1日～平成28年12月31日）において、当社の連結決算及び個別決算におきまして、以下のとおり損失を計上することとなりました。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="line-height: 24px; text-align: left"&gt; &lt;/p&gt;
+&lt;p style="line-height: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;　(3)当該事象の損益に与える影響額&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 18.8666667938232px; text-align: justify; text-justify: inter-ideograph; text-indent: 9.26666641235352px"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;当該事象により、連結決算において、「持分法による損失」336億円を計上するとともに、個別決算において、「投資有価証券評価損」318億円を営業外損失として計上します。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 18.8666667938232px; text-align: justify; text-justify: inter-ideograph; text-indent: 9.26666641235352px"&gt; &lt;/p&gt;
+&lt;p style="line-height: 24px; text-align: right"&gt; &lt;/p&gt;
+&lt;p style="line-height: 24px; text-align: right"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;以　上&lt;/span&gt;
+&lt;/p&gt;
+
+</jpcrp-esr_cor:EventWithSignificantEffectsOnFinancialPositionBusinessPerformanceAndCashFlowsTextBlock>
+  <jpcrp-esr_cor:EventWithSignificantEffectsOnFinancialPositionBusinessPerformanceAndCashFlowsOfGroupTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;２【報告内容】&lt;/h3&gt;
+&lt;p style="line-height: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;　(1)当該事象の発生年月日&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 28.3333339691162px; line-height: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;平成29年2月7日&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="line-height: 24px; text-align: left"&gt; &lt;/p&gt;
+&lt;p style="line-height: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;　(2)当該事象の内容&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 18.8666667938232px; text-align: justify; text-justify: inter-ideograph; text-indent: 9.26666641235352px"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;当社は、2011年、シエラゴルダ　チリ銅・モリブデン事業に参画しました。鉱山の運営はシエラゴルダ鉱山社（本社：チリ共和国サンチャゴ市、以下「鉱山運営会社」）が行い、当社と住友金属鉱山株式会社（本社：東京都港区）との合弁会社であるエスエムエム　シエラゴルダ　インベルシオネス社（本社：チリ共和国サンチャゴ市、以下「合弁会社」）が鉱山運営会社に45%の出資を行い、KGHM Polska Miedz S.A.（本社：ポーランド共和国ルビン市）と共同で事業を行っております。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 18.8666667938232px; text-align: justify; text-justify: inter-ideograph; text-indent: 9.26666641235352px"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;当社は100%子会社であるインベルシオネス　エスシー　シエラゴルダ社（本社：チリ共和国サンチャゴ市）を通じ、合弁会社へ30%の出資を行っております。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 18.8666667938232px; text-align: justify; text-justify: inter-ideograph; text-indent: 9.26666641235352px"&gt; &lt;/p&gt;
+&lt;p style="margin-left: 18.8666667938232px; text-align: justify; text-justify: inter-ideograph; text-indent: 9.26666641235352px"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;鉱山運営会社は、足元の操業実績や中・長期の銅価格の動向を踏まえて、長期事業計画の見直しを行った結果、保有する固定資産の全額を回収することは困難と判断し、回収可能価額まで減損損失を計上することになりました。これに伴い、平成29年3月期第3四半期決算（平成28年10月1日～平成28年12月31日）において、当社の連結決算及び個別決算におきまして、以下のとおり損失を計上することとなりました。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="line-height: 24px; text-align: left"&gt; &lt;/p&gt;
+&lt;p style="line-height: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;　(3)当該事象の損益に与える影響額&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 18.8666667938232px; text-align: justify; text-justify: inter-ideograph; text-indent: 9.26666641235352px"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;当該事象により、連結決算において、「持分法による損失」336億円を計上するとともに、個別決算において、「投資有価証券評価損」318億円を営業外損失として計上します。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 18.8666667938232px; text-align: justify; text-justify: inter-ideograph; text-indent: 9.26666641235352px"&gt; &lt;/p&gt;
+&lt;p style="line-height: 24px; text-align: right"&gt; &lt;/p&gt;
+&lt;p style="line-height: 24px; text-align: right"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 14px"&gt;以　上&lt;/span&gt;
+&lt;/p&gt;
+</jpcrp-esr_cor:EventWithSignificantEffectsOnFinancialPositionBusinessPerformanceAndCashFlowsOfGroupTextBlock>
+</xbrli:xbrl>

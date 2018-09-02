@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jpcrp120000-rep_E02528-000="http://disclosure.edinet-fsa.go.jp/jpcrp120000/rep/001/E02528-000/2017-05-19/01/2017-05-19" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:jpcrp_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2015-03-31/jpcrp_cor" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:jpdei_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor">
+  <link:schemaRef xlink:type="simple" xlink:href="jpcrp120000-rep-001_E02528-000_2017-05-19_01_2017-05-19.xsd"/>
+  <xbrli:context id="FilingDateInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E02528-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2017-05-19</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+  <xbrli:unit id="pure">
+<xbrli:measure>xbrli:pure</xbrli:measure>
+</xbrli:unit>
+  <jpdei_cor:NumberOfSubmissionDEI contextRef="FilingDateInstant" unitRef="pure" decimals="0">1</jpdei_cor:NumberOfSubmissionDEI>
+  <jpcrp_cor:ShelfRegistrationSupplementNumberCoverPage contextRef="FilingDateInstant">27－関東202－１</jpcrp_cor:ShelfRegistrationSupplementNumberCoverPage>
+  <jpcrp_cor:DocumentTitleCoverPage contextRef="FilingDateInstant">発行登録追補書類</jpcrp_cor:DocumentTitleCoverPage>
+  <jpcrp_cor:PlaceOfFilingCoverPage contextRef="FilingDateInstant">関東財務局長</jpcrp_cor:PlaceOfFilingCoverPage>
+  <jpcrp_cor:FilingDateCoverPage contextRef="FilingDateInstant">2017-05-19</jpcrp_cor:FilingDateCoverPage>
+  <jpcrp_cor:CompanyNameCoverPage contextRef="FilingDateInstant">住友商事株式会社</jpcrp_cor:CompanyNameCoverPage>
+  <jpcrp_cor:CompanyNameInEnglishCoverPage contextRef="FilingDateInstant">SUMITOMO CORPORATION</jpcrp_cor:CompanyNameInEnglishCoverPage>
+  <jpcrp_cor:TitleAndNameOfRepresentativeCoverPage contextRef="FilingDateInstant">代表取締役社長 CEO　　中村　邦晴</jpcrp_cor:TitleAndNameOfRepresentativeCoverPage>
+  <jpcrp_cor:AddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">東京都中央区晴海１丁目８番11号</jpcrp_cor:AddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp_cor:TelephoneNumberAddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">(03)5166－5000</jpcrp_cor:TelephoneNumberAddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp_cor:NameOfContactPersonAddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">財務部長　　塩見　勝</jpcrp_cor:NameOfContactPersonAddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp_cor:NearestPlaceOfContactCoverPage contextRef="FilingDateInstant">東京都中央区晴海１丁目８番11号</jpcrp_cor:NearestPlaceOfContactCoverPage>
+  <jpcrp_cor:TelephoneNumberNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">(03)5166－5000</jpcrp_cor:TelephoneNumberNearestPlaceOfContactCoverPage>
+  <jpcrp_cor:NameOfContactPersonNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">財務部長　　塩見　勝</jpcrp_cor:NameOfContactPersonNearestPlaceOfContactCoverPage>
+  <jpcrp_cor:TypesOfSecuritiesToShelfRegisterForOfferingOrDistributionCoverPage contextRef="FilingDateInstant">社債</jpcrp_cor:TypesOfSecuritiesToShelfRegisterForOfferingOrDistributionCoverPage>
+  <jpcrp_cor:AmountOfOfferingOrDistributionByThisRegistrationCoverPageTextBlock contextRef="FilingDateInstant">
+&lt;div&gt;
+&lt;table style="table-layout: fixed; width: 348px" cellpadding="0" cellspacing="0"&gt;
+&lt;colgroup&gt;
+&lt;col style="width: 180px"/&gt;
+&lt;col style="width: 168px"/&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 179px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px none #000000; border-top: 1px none #000000; border-right: 1px none #000000; border-bottom: 1px none #000000; vertical-align: middle"&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;10,000百万円&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px none #000000; border-top: 1px none #000000; border-right: 1px none #000000; border-bottom: 1px none #000000; vertical-align: middle"&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</jpcrp_cor:AmountOfOfferingOrDistributionByThisRegistrationCoverPageTextBlock>
+  <jpcrp_cor:FilingDateContentsOfShelfRegistrationStatementCoverPage contextRef="FilingDateInstant">2015-11-20</jpcrp_cor:FilingDateContentsOfShelfRegistrationStatementCoverPage>
+  <jpcrp_cor:EffectiveDateContentsOfShelfRegistrationStatementCoverPage contextRef="FilingDateInstant">2015-12-01</jpcrp_cor:EffectiveDateContentsOfShelfRegistrationStatementCoverPage>
+  <jpcrp_cor:EndOfPeriodOfIssueContentsOfShelfRegistrationStatementCoverPage contextRef="FilingDateInstant">2017-11-30</jpcrp_cor:EndOfPeriodOfIssueContentsOfShelfRegistrationStatementCoverPage>
+  <jpcrp_cor:ShelfRegistrationNumberContentsOfShelfRegistrationStatementCoverPage contextRef="FilingDateInstant">27－関東202</jpcrp_cor:ShelfRegistrationNumberContentsOfShelfRegistrationStatementCoverPage>
+  <jpcrp_cor:PlannedAmountOfIssueOrLimitOnOutstandingBalanceContentsOfShelfRegistrationStatementCoverPage contextRef="FilingDateInstant">発行予定額　200,000百万円</jpcrp_cor:PlannedAmountOfIssueOrLimitOnOutstandingBalanceContentsOfShelfRegistrationStatementCoverPage>
+  <jpcrp_cor:OfferingsAndDistributionsInPastCoverPageTextBlock contextRef="FilingDateInstant">
+&lt;div&gt;
+&lt;table style="table-layout: fixed; width: 648px" cellpadding="0" cellspacing="0"&gt;
+&lt;colgroup&gt;
+&lt;col style="width: 126px"/&gt;
+&lt;col style="width: 126px"/&gt;
+&lt;col style="width: 132px"/&gt;
+&lt;col style="width: 132px"/&gt;
+&lt;col style="width: 132px"/&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td style="width: 125px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="width: 125px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="width: 131px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="width: 131px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 24px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;番号&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;提出年月日&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;募集金額（円）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;減額による訂正年月日&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;減額金額（円）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="min-height: 24px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;－&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;－&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;－&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;－&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;－&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 24px"&gt;
+&lt;td colspan="2" style="border-left: 1px solid #000000; border-top: 1px none #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;実績合計額（円）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;なし&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;（なし）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;減額総額（円）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;なし&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p style="margin-left: 60px; text-align: left; text-indent: -60px"&gt;
+&lt;span style="font-size: 12px"&gt;　（注）　実績合計額は、券面総額又は振替社債の総額の合計額（下段（　）書きは、発行価額の総額の合計額）に基づき算出しております。&lt;/span&gt;
+&lt;/p&gt;
+</jpcrp_cor:OfferingsAndDistributionsInPastCoverPageTextBlock>
+  <jpcrp_cor:RemainingAmountCoverPageTextBlock contextRef="FilingDateInstant">
+&lt;p style="margin-top: 1.66999995708466px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;　200,000百万円&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;（200,000百万円）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 48px; margin-bottom: 1.66999995708466px; text-align: left; text-indent: -48px"&gt;
+&lt;span style="font-size: 12px"&gt;（注）　残額は、券面総額又は振替社債の総額の合計額（下段（　）書きは、発行価額の総額の合計額）に基づき算出しております。&lt;/span&gt;
+&lt;/p&gt;
+</jpcrp_cor:RemainingAmountCoverPageTextBlock>
+  <jpcrp_cor:WhenLimitOnOutstandingBalanceWasSpecifiedRemainingAmountCoverPageNA contextRef="FilingDateInstant">
+
+　　　該当事項はありません。
+
+</jpcrp_cor:WhenLimitOnOutstandingBalanceWasSpecifiedRemainingAmountCoverPageNA>
+  <jpcrp_cor:RemainingBalanceCoverPage contextRef="FilingDateInstant">－円</jpcrp_cor:RemainingBalanceCoverPage>
+  <jpcrp_cor:MattersSpecificToStabilizingOperationCoverPageNA contextRef="FilingDateInstant">該当事項はありません。</jpcrp_cor:MattersSpecificToStabilizingOperationCoverPageNA>
+  <jpcrp_cor:PlaceForPublicInspectionCoverPageTextBlock contextRef="FilingDateInstant">
+&lt;p style="margin-top: 1.66999995708466px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;住友商事株式会社　関西支社（大阪）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;（大阪市中央区北浜４丁目５番33号）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;住友商事株式会社　中部支社（名古屋）&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt;（名古屋市中村区名駅１丁目１番３号）&lt;/p&gt;
+&lt;p style="text-align: left"&gt;住友商事株式会社　九州支社（福岡）&lt;/p&gt;
+&lt;p style="text-align: left"&gt;（福岡市博多区博多駅前３丁目30番23号）&lt;/p&gt;
+&lt;p style="text-align: left"&gt;株式会社東京証券取引所&lt;/p&gt;
+&lt;p style="text-align: left"&gt;（東京都中央区日本橋兜町２番１号）&lt;/p&gt;
+&lt;p style="text-align: left"&gt;株式会社名古屋証券取引所&lt;/p&gt;
+&lt;p style="text-align: left"&gt;（名古屋市中区栄３丁目８番20号）&lt;/p&gt;
+&lt;p style="text-align: left"&gt;証券会員制法人福岡証券取引所&lt;/p&gt;
+&lt;p style="text-align: left"&gt;（福岡市中央区天神２丁目14番２号）&lt;/p&gt;
+</jpcrp_cor:PlaceForPublicInspectionCoverPageTextBlock>
+  <jpcrp120000-rep_E02528-000:NotesCoverPageTextBlock contextRef="FilingDateInstant">（注）  上記のうち、九州支社（福岡）は、法定の縦覧場所ではありませんが、投資者の便宜を考慮して縦覧に供する場所としております。</jpcrp120000-rep_E02528-000:NotesCoverPageTextBlock>
+  <jpdei_cor:EDINETCodeDEI contextRef="FilingDateInstant">E02528</jpdei_cor:EDINETCodeDEI>
+  <jpdei_cor:FundCodeDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:SecurityCodeDEI contextRef="FilingDateInstant">80530</jpdei_cor:SecurityCodeDEI>
+  <jpdei_cor:FilerNameInJapaneseDEI contextRef="FilingDateInstant">住友商事株式会社</jpdei_cor:FilerNameInJapaneseDEI>
+  <jpdei_cor:FilerNameInEnglishDEI contextRef="FilingDateInstant">SUMITOMO CORPORATION</jpdei_cor:FilerNameInEnglishDEI>
+  <jpdei_cor:FundNameInJapaneseDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:FundNameInEnglishDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CabinetOfficeOrdinanceDEI contextRef="FilingDateInstant">企業内容等の開示に関する内閣府令</jpdei_cor:CabinetOfficeOrdinanceDEI>
+  <jpdei_cor:DocumentTypeDEI contextRef="FilingDateInstant">第十二号様式</jpdei_cor:DocumentTypeDEI>
+  <jpdei_cor:AccountingStandardsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:WhetherConsolidatedFinancialStatementsArePreparedDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenConsolidatedFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentPeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:TypeOfCurrentPeriodDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ComparativePeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:NextFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:EndDateOfQuarterlyOrSemiAnnualPeriodOfNextFiscalYearDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:AmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:AmendmentFlagDEI>
+  <jpdei_cor:IdentificationOfDocumentSubjectToAmendmentDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ReportAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:ReportAmendmentFlagDEI>
+  <jpdei_cor:XBRLAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:XBRLAmendmentFlagDEI>
+  <jpcrp_cor:NewIssuanceOfCorporateBondsOtherThanShortTermBondsTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;１【新規発行社債（短期社債を除く。）】&lt;/h3&gt;
+&lt;div&gt;
+&lt;table style="table-layout: fixed; width: 648px" cellpadding="0" cellspacing="0"&gt;
+&lt;colgroup&gt;
+&lt;col style="width: 144px"/&gt;
+&lt;col style="width: 504px"/&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 143px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 18px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;銘柄&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;住友商事株式会社第52回無担保社債（社債間限定同順位特約付）&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 18px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;記名・無記名の別&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 36px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;券面総額又は振替社債の総額（円）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;金10,000,000,000円&lt;/p&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;各社債の金額（円）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;金１億円&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;発行価額の総額（円）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;金10,000,000,000円&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;発行価格（円）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;額面100円につき金100円&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 18px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;利率（％）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;年0.325％&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;利払日&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;毎年５月26日及び11月26日&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;利息支払の方法&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; line-height: 17.3333339691162px; margin-right: 12px; text-align: left"&gt;１．利息支払の方法及び期限&lt;/p&gt;
+&lt;p style="margin-left: 48px; line-height: 17.3333339691162px; margin-right: 12px; text-align: left; text-indent: -24px"&gt;(1）本社債の利息は、発行日の翌日から償還すべき日（以下償還期日という。)までこれをつけ、2017年11月26日を第１回の利息を支払うべき日（以下利息支払期日という。）としてその日までの分を支払い、その後毎年５月26日及び11月26日の２回に各々その日までの前半か年分を支払う。&lt;/p&gt;
+&lt;p style="margin-left: 48px; line-height: 17.3333339691162px; margin-right: 12px; text-align: left; text-indent: -24px"&gt;(2）利息支払期日が本「利息支払の方法」欄第１項第(5)号に定められる銀行休業日にあたるときは、その前銀行営業日に支払を繰り上げる。&lt;/p&gt;
+&lt;p style="margin-left: 48px; line-height: 17.3333339691162px; margin-right: 12px; text-align: left; text-indent: -24px"&gt;(3）半か年に満たない期間につき利息を計算するときは、その半か年の日割をもってこれを計算する。&lt;/p&gt;
+&lt;p style="margin-left: 48px; line-height: 17.3333339691162px; margin-right: 12px; text-align: left; text-indent: -24px"&gt;(4）償還期日後は利息をつけない。&lt;/p&gt;
+&lt;p style="margin-left: 48px; line-height: 17.3333339691162px; margin-right: 12px; text-align: left; text-indent: -24px"&gt;(5）銀行営業日とは、東京において商業銀行が営業を行っている日をいい、銀行営業日でない日を銀行休業日という。&lt;/p&gt;
+&lt;p style="margin-left: 12px; line-height: 17.3333339691162px; margin-right: 12px; text-align: left"&gt;２．利息の支払場所&lt;/p&gt;
+&lt;p style="margin-left: 24px; line-height: 17.3333339691162px; margin-right: 12px; text-align: left"&gt;別記(注)10．記載のとおり。&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;償還期限&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 4px; text-align: left"&gt;2027年５月26日&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;償還の方法&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;１．償還金額&lt;/p&gt;
+&lt;p style="margin-left: 36px; margin-right: 12px; text-align: left"&gt;額面100円につき金100円&lt;/p&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;２．償還の方法及び期限&lt;/p&gt;
+&lt;p style="margin-left: 48px; margin-right: 12px; text-align: left; text-indent: -24px"&gt;(1）本社債の元金は、2027年５月26日にその総額を償還する。&lt;/p&gt;
+&lt;p style="margin-left: 48px; margin-right: 12px; text-align: left; text-indent: -24px"&gt;(2）償還期日が別記「利息支払の方法」欄第１項第(5)号に定められる銀行休業日にあたるときは、その前銀行営業日に支払を繰り上げる。&lt;/p&gt;
+&lt;p style="margin-left: 48px; margin-right: 12px; text-align: left; text-indent: -24px"&gt;(3）本社債の買入消却は、法令または別記「振替機関」欄に定める振替機関の業務規程その他の規則に別途定められる場合を除き、発行日の翌日以降いつでもこれを行うことができる。&lt;/p&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;３．償還元金の支払場所&lt;/p&gt;
+&lt;p style="margin-left: 24px; margin-right: 12px; text-align: left"&gt;別記(注)10．記載のとおり。&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;募集の方法&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;一般募集&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;申込証拠金（円）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;額面100円につき金100円とし、払込期日に払込金に振替充当する。申込証拠金には利息をつけない。&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;申込期間&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 4px; text-align: left"&gt;2017年５月19日&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;申込取扱場所&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;別項引受金融商品取引業者の本店及び国内各支店&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;払込期日&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 4px; text-align: left"&gt;2017年５月26日&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;振替機関&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;株式会社証券保管振替機構&lt;/p&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;東京都中央区日本橋茅場町二丁目１番１号&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 18px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;担保&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;本社債には担保ならびに保証は付されておらず、また特に留保されている資産はない。&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p style="text-align: left" class="style_pb_after"&gt; &lt;/p&gt;
+&lt;p style="line-height: 1.33000004291534px; text-align: left"&gt; &lt;/p&gt;
+&lt;div&gt;
+&lt;table style="table-layout: fixed; width: 648px" cellpadding="0" cellspacing="0"&gt;
+&lt;colgroup&gt;
+&lt;col style="width: 144px"/&gt;
+&lt;col style="width: 504px"/&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 143px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;財務上の特約（担保提供制限）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 36px; margin-right: 12px; text-align: left; text-indent: -24px"&gt;１．当社は、本社債発行後、本社債の未償還残高が存する限り、当社が国内で既に発行した、または国内で今後発行する他の社債のために、担保提供（当社の資産に担保権を設定する場合、当社の特定の資産につき担保権設定の予約をする場合及び当社の特定の資産につき特定の債務以外の債務の担保に供しない旨を約する場合をいう。)を行う場合には、本社債のために担保付社債信託法に基づき、同順位の担保権を設定する。&lt;/p&gt;
+&lt;p style="margin-left: 36px; margin-right: 12px; text-align: left; text-indent: -24px"&gt;２．当社が本「財務上の特約（担保提供制限）」欄第１項により本社債のために担保権を設定する場合には、当社はただちに登記その他必要な手続を完了し、かつ、その旨を担保付社債信託法第41条第４項の規定に準じて公告する。&lt;/p&gt;
+&lt;p style="margin-left: 36px; margin-right: 12px; text-align: left; text-indent: -24px"&gt;３．当社が合併により、被合併会社の担保付社債を承継する場合には、本「財務上の特約（担保提供制限）」欄第１項は適用されない。&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;財務上の特約（その他の条項）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 12px; margin-right: 12px; text-align: left"&gt;該当事項なし。&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p style="text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;　（注）１．&lt;/span&gt; 信用格付業者から提供され、もしくは閲覧に供された信用格付&lt;/p&gt;
+&lt;p style="margin-left: 78px; line-height: 16.533332824707px; text-align: left; text-indent: -23.9333324432373px"&gt;(1) 株式会社格付投資情報センター（以下Ｒ＆Ｉという。）&lt;/p&gt;
+&lt;p style="margin-left: 78px; line-height: 16.533332824707px; text-align: left"&gt;本社債について、当社はＲ＆ＩからＡ＋（シングルエープラス）の信用格付を2017年５月19日付で取得している。&lt;/p&gt;
+&lt;p style="margin-left: 78px; line-height: 16.533332824707px; text-align: left"&gt;Ｒ＆Ｉの信用格付は、発行体が負う金融債務についての総合的な債務履行能力や個々の債務等が約定通りに履行される確実性（信用力）に対するＲ＆Ｉの意見である。Ｒ＆Ｉは信用格付によって、個々の債務等の流動性リスク、市場価値リスク、価格変動リスク等、信用リスク以外のリスクについて、何ら意見を表明するものではない。Ｒ＆Ｉの信用格付は、いかなる意味においても、現在・過去・将来の事実の表明ではない。また、Ｒ＆Ｉは、明示・黙示を問わず、提供する信用格付、またはその他の意見についての正確性、適時性、完全性、商品性、及び特定目的への適合性その他一切の事項について、いかなる保証もしていない。&lt;/p&gt;
+&lt;p style="margin-left: 78px; line-height: 16.533332824707px; text-align: left"&gt;Ｒ＆Ｉは、信用格付を行うに際して用いた情報に対し、品質確保の措置を講じているが、これらの情報の正確性等について独自に検証しているわけではない。Ｒ＆Ｉは、必要と判断した場合には、信用格付を変更することがある。また、資料・情報の不足や、その他の状況により、信用格付を保留したり、取り下げたりすることがある。&lt;/p&gt;
+&lt;p style="margin-left: 78px; line-height: 16.533332824707px; text-align: left"&gt;本社債の申込期間中に本社債に関してＲ＆Ｉが公表する情報へのリンク先は、Ｒ＆Ｉのホームページ（http://www.r-i.co.jp/jpn/）の「ニュースリリース/クレジットコメント」及び同コーナー右上の「一覧はこちら」をクリックし&lt;span style="font-size: 12px"&gt;て表示される&lt;/span&gt;「格付ニュース一覧」に掲載されている。なお、システム障害等何らかの事情により情報を入手することができない可能性がある。その場合の連絡先は以下のとおり。&lt;/p&gt;
+&lt;p style="margin-left: 78px; line-height: 16.533332824707px; text-align: left"&gt;Ｒ＆Ｉ:電話番号03-6273-7471&lt;/p&gt;
+&lt;p style="margin-left: 84px; line-height: 16.533332824707px; text-align: left; text-indent: -29.9333324432373px"&gt;(2) ムーディーズ・ジャパン株式会社（以下ムーディーズという。）&lt;/p&gt;
+&lt;p style="margin-left: 78px; line-height: 16.533332824707px; text-align: justify; text-justify: inter-ideograph"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;本社債について、当社はムーディーズからＢaa１（ビーダブルエーワン）の信用格付を2017年５月19日付で取得している。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 78px; line-height: 16.533332824707px; text-align: justify; text-justify: inter-ideograph"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;ムーディーズの信用格付は、事業体、与信契約、債務または債務類似証券の将来の相対的信用リスクについてのムーディーズの現時点の意見である。ムーディーズは、信用リスクを、事業体が契約上・財務上の義務を期日に履行できないリスク及びデフォルト事由が発生した場合に見込まれるあらゆる種類の財産上の損失と定義している。ムーディーズの信用格付は、流動性リスク、市場価値リスク、価格変動性リスク及びその他のリスクについて言及するものではない。ムーディーズの信用格付は、投資または財務に関する助言を構成するものではなく、特定の証券の購入、売却、または保有を推奨するものではない。ムーディーズは、いかなる形式または方法によっても、これらの格付もしくはその他の意見または情報の正確性、適時性、完全性、商品性及び特定の目的への適合性について、（明示的、黙示的を問わず）いかなる保証も行っていない。発行体または債務の信用リスクは、発行体から入手した情報、または公開情報に基づき評価される。ムーディーズは、信用格付を付与する際に用いる情報が十分な品質を有し、またその情報源がムーディーズにとって信頼できると考えられるものであることを確保するため、全ての必要な措置を講じている。しかし、ムーディーズは監査を行うものではなく、格付の過程で受領した情報について常に独自に確認することはできない。ムーディーズは、必要と判断した場合に本格付を変更することがある。また、ムーディーズは、資料、情報の不足や、その他の状況により、本格付を取り下げることがある。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 78px; line-height: 16.533332824707px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;本社債の申込期間中に本社債に関してムーディーズが公表する情報へのリンク先は、ムーディーズのホームページ（http://www.moodys.co.jp/）の「当社格付に関する情報」の「レポート」の中の「プレスリリース‐ムーディーズ・ジャパン」をクリックして表示される「レポート」に掲載されている。なお、システム障害等何らかの事情により情報を入手することができない可能性がある。その場合の連絡先は以下のとおり。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 78px; line-height: 16.533332824707px; text-align: left" class="style_pb_after"&gt;
+&lt;span style="font-size: 12px"&gt;ムーディーズ:電話番号03-5408-4100&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;
+&lt;span style="font-size: 12px; font-weight: normal"&gt;２．&lt;/span&gt;振替社債&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -24px"&gt;(1）本社債は、社債、株式等の振替に関する法律（以下社債等振替法という。）の規定の適用を受け、別記「振替機関」欄記載の振替機関の振替業にかかる業務規程等の規則に従って取り扱われるものとする。&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -24px"&gt;(2）社債等振替法に従い本社債の社債権者が社債券の発行を請求することができる場合を除き、社債等振替法第67条第１項の規定に基づき、本社債にかかる社債券は発行されない。&lt;/p&gt;
+&lt;p style="margin-left: 72px; text-align: left; text-indent: -24px"&gt;３．社債管理者の不設置&lt;/p&gt;
+&lt;p style="margin-left: 72px; text-align: left"&gt;本社債は、会社法第702条ただし書きの要件を充たすものであり、本社債の管理を行う社債管理者は設置されていない。&lt;/p&gt;
+&lt;p style="margin-left: 72px; text-align: left; text-indent: -24px"&gt;４．財務代理人ならびに発行代理人及び支払代理人&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -24px"&gt;(1）当社は、株式会社三井住友銀行（以下財務代理人という。）との間に2017年５月19日付住友商事株式会社第52回無担保社債（社債間限定同順位特約付）財務代理契約を締結し、本社債の元利金支払に関するとりまとめ事務その他本社債に関し当社が必要と認めた事務の取扱を委託する。&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -24px"&gt;(2）本社債にかかる発行代理人及び支払代理人業務は、財務代理人が行う。&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -24px"&gt;(3）財務代理人は、社債権者との間にいかなる代理関係及び信託関係も有しない。&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -24px"&gt;(4）当社は、財務代理人を変更する場合には、本(注)６．に定める方法によりこれを公告する。&lt;/p&gt;
+&lt;p style="margin-left: 72px; text-align: left; text-indent: -24px"&gt;５．期限の利益喪失に関する特約&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -24px"&gt;(1）当社は、次に掲げる事由のいずれかが発生した場合には、本社債総額についてただちに期限の利益を喪失する。&lt;/p&gt;
+&lt;p style="margin-left: 96px; text-align: left; text-indent: -24px"&gt;①　当社が別記「償還の方法」欄第２項または別記「利息支払の方法」欄第１項の規定に違背し、５銀行営業日を経過しても、これを履行または解消できないとき。&lt;/p&gt;
+&lt;p style="margin-left: 96px; text-align: left; text-indent: -24px"&gt;②　当社が別記「財務上の特約（担保提供制限）」欄の規定に違背したとき。&lt;/p&gt;
+&lt;p style="margin-left: 96px; text-align: left; text-indent: -24px"&gt;③　当社が本社債以外の社債について期限の利益を喪失したとき、または償還期日が到来しても当該社債の要項に定める一定の期間内に弁済をすることができないとき。&lt;/p&gt;
+&lt;p style="margin-left: 96px; text-align: left; text-indent: -24px"&gt;④　当社が社債を除く借入金債務について期限の利益を喪失したとき、もしくは当社以外の社債またはその他の借入金債務に対して当社が行った保証債務について履行義務が発生したにもかかわらず、その履行をすることができないとき。ただし、当該債務の合計額（邦貨換算後）が10億円を超えない場合は、この限りではない。&lt;/p&gt;
+&lt;p style="margin-left: 96px; text-align: left; text-indent: -24px"&gt;⑤　当社が破産手続開始、民事再生手続開始もしくは会社更生手続開始の申立てをし、または解散（合併の場合を除く。）の決議をしたとき。&lt;/p&gt;
+&lt;p style="margin-left: 96px; text-align: left; text-indent: -24px"&gt;⑥　当社が破産手続、民事再生手続もしくは会社更生手続の開始決定、または特別清算開始の命令を受けたとき。&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -24px"&gt;(2）前(1)の規定により本社債について期限の利益を喪失した場合は、当社はただちにその旨を本(注)６.に定める方法により公告する。&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -24px"&gt;(3）期限の利益を喪失した本社債は直前の利息支払期日の翌日から期限の利益を喪失した日までの経過利息を付してただちに支払うものとする。&lt;/p&gt;
+&lt;p style="margin-left: 72px; text-align: left; text-indent: -24px"&gt;６．社債権者に通知する場合の公告&lt;/p&gt;
+&lt;p style="margin-left: 72px; text-align: left"&gt;本社債に関して社債権者に通知をする場合の公告は、法令に別段の定めがあるものを除いては、電子公告の方法によりこれを行うものとする。ただし、電子公告の方法によることができない事故その他のやむを得ない事由が生じた場合は、当社の定款所定の新聞紙に掲載する。&lt;/p&gt;
+&lt;p style="margin-left: 72px; text-align: left; text-indent: -24px"&gt;７．社債要項の公示&lt;/p&gt;
+&lt;p style="margin-left: 72px; text-align: left"&gt;当社は、その本店及び財務代理人の本店に本社債の社債要項の謄本を備え置き、その営業時間中、一般の閲覧に供する。&lt;/p&gt;
+&lt;p style="margin-left: 72px; text-align: left; text-indent: -24px"&gt;８．社債要項の変更&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -24px"&gt;(1）本社債の社債要項に定める事項（ただし、本(注)４.(1)に定める事項を除く。）の変更は、法令に定めがあるときを除き、社債権者集会の決議を要するものとし、さらに当該決議にかかる裁判所の認可を必要とする。&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -24px"&gt;(2）前(1）の社債権者集会の決議録は、本社債の社債要項と一体をなすものとする。&lt;/p&gt;
+&lt;p style="margin-left: 72px; text-align: left; text-indent: -24px" class="style_pb_after"&gt; &lt;/p&gt;
+&lt;p style="margin-left: 72px; text-align: left; text-indent: -24px"&gt;
+&lt;span style="font-weight: normal"&gt;９．社債権者集会&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -24px"&gt;(1）本社債及び本社債と同一の種類（会社法第681条第１号に規定する種類をいう。）の社債（以下本種類の社債と総称する。）の社債権者集会は、当社がこれを招集するものとし、社債権者集会の日の３週間前までに本種類の社債の社債権者集会を招集する旨及び会社法第719条各号所定の事項を本（注）６．に定める方法により公告する。&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -24px"&gt;(2）本種類の社債の社債権者集会は東京都においてこれを行う。&lt;/p&gt;
+&lt;p style="margin-left: 84px; text-align: left; text-indent: -24px"&gt;(3）本種類の社債の総額（償還済みの額を除く。また、当社が有する本種類の社債の金額の合計額は算入しない。）の10分の１以上にあたる本種類の社債を有する社債権者は、社債等振替法第86条第３項に定める書面を当社に提示したうえ、社債権者集会の目的である事項及び招集の理由を記載した書面を当社に提出して、本種類の社債の社債権者集会の招集を請求することができる。&lt;/p&gt;
+&lt;p style="margin-left: 72px; text-align: left; text-indent: -24px"&gt;10．元利金の支払&lt;/p&gt;
+&lt;p style="margin-left: 72px; margin-bottom: 18px; text-align: left"&gt;本社債にかかる元利金は、社債等振替法及び別記「振替機関」欄の振替機関の業務規程その他の規則に従って支払われる。&lt;/p&gt;
+&lt;p style="margin-left: 72px; text-align: left; text-indent: -24px"&gt; &lt;/p&gt;
+</jpcrp_cor:NewIssuanceOfCorporateBondsOtherThanShortTermBondsTextBlock>
+  <jpcrp_cor:UnderwritingOfBondsTextBlock contextRef="FilingDateInstant">
+&lt;h4&gt;（１）【社債の引受け】&lt;/h4&gt;
+&lt;div&gt;
+&lt;table style="table-layout: fixed; width: 648px" cellpadding="0" cellspacing="0"&gt;
+&lt;colgroup&gt;
+&lt;col style="width: 192px"/&gt;
+&lt;col style="width: 216px"/&gt;
+&lt;col style="width: 84px"/&gt;
+&lt;col style="width: 156px"/&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td style="width: 191px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="width: 215px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="width: 83px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 40px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;引受人の氏名又は名称&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;住所&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;引受金額&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;（百万円）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;引受けの条件&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="min-height: 53.3300018310547px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-left: 6px; line-height: 13.3299999237061px; margin-right: 4px; text-align: left"&gt;野村證券株式会社&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-left: 6px; margin-right: 6px; text-align: left"&gt;
+&lt;span style="font-weight: normal"&gt;東京都中央区日本橋一丁目９番１号&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 24px; text-align: right"&gt;5,000&lt;/p&gt;
+&lt;/td&gt;
+&lt;td rowspan="3" style="border-left: 1px none #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: top"&gt;
+&lt;p style="margin-left: 30px; margin-right: 4px; text-align: justify; text-justify: inter-ideograph; text-indent: -24px"&gt;
+&lt;span style="font-size: 12px"&gt;１．引受人は本社債の全額につき連帯して買取引受を行う。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 30px; margin-right: 4px; text-align: justify; text-justify: inter-ideograph; text-indent: -24px"&gt;
+&lt;span style="font-size: 12px"&gt;２．本社債の引受手数料は額面100円につき金42.5銭とする。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 30px; margin-right: 4px; text-align: left; text-indent: -24px"&gt; &lt;/p&gt;
+&lt;p style="margin-left: 30px; margin-right: 4px; text-align: left; text-indent: -24px"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 53.3300018310547px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-left: 6px; margin-right: 6px; text-align: left"&gt;みずほ証券株式会社&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-left: 6px; margin-right: 6px; text-align: left"&gt;
+&lt;span style="font-weight: normal"&gt;東京都千代田区大手町一丁目&lt;/span&gt;５番１号&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 24px; text-align: right"&gt;
+&lt;span style="font-weight: normal"&gt;3,000&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 53.3300018310547px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-left: 6px; margin-right: 6px; text-align: left"&gt;ＳＭＢＣ日興証券株式会社&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-left: 6px; margin-right: 6px; text-align: left"&gt;東京都千代田区丸の内三丁目３番１号&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 24px; text-align: right"&gt;
+&lt;span style="font-weight: normal"&gt;2,000&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 26.6700000762939px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;計&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;－&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 24px; text-align: right"&gt;10,000&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;－&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</jpcrp_cor:UnderwritingOfBondsTextBlock>
+  <jpcrp_cor:AppointmentOfBondAdministratorNATextBlock contextRef="FilingDateInstant">
+&lt;h4&gt;（２）【社債管理の委託】&lt;/h4&gt;
+&lt;p style="text-align: left"&gt;　　　　　　該当事項はありません。&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:AppointmentOfBondAdministratorNATextBlock>
+  <jpcrp_cor:AmountOfNetProceedsFromNewIssuanceTextBlock contextRef="FilingDateInstant">
+&lt;h4&gt;（１）【新規発行による手取金の額】&lt;/h4&gt;
+&lt;div&gt;
+&lt;table style="table-layout: fixed; width: 648px" cellpadding="0" cellspacing="0"&gt;
+&lt;colgroup&gt;
+&lt;col style="width: 216px"/&gt;
+&lt;col style="width: 216px"/&gt;
+&lt;col style="width: 216px"/&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td style="width: 215px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="width: 215px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 26.6700000762939px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;払込金額の総額（百万円）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;発行諸費用の概算額（百万円）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;
+&lt;span style="font-size: 12px"&gt;差引手取概算額（百万円）&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="min-height: 26.6700000762939px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;10,000&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;50&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;9,950&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</jpcrp_cor:AmountOfNetProceedsFromNewIssuanceTextBlock>
+  <jpcrp_cor:UseOfNetProceedsTextBlock contextRef="FilingDateInstant">
+&lt;h4&gt;（２）【手取金の使途】&lt;/h4&gt;
+&lt;p style="margin-left: 60px; text-align: left"&gt;　上記の差引手取概算額9,950百万円は、全額を2017年６月末までに返済期日が到来する借入金の返済資金に充当する予定であります。&lt;/p&gt;
+&lt;p style="margin-left: 60px; text-align: left"&gt; &lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:UseOfNetProceedsTextBlock>
+  <jpcrp_cor:ParticularsOfSecondaryDistributionNATextBlock contextRef="FilingDateInstant">
+&lt;h2&gt;第２【売出要項】&lt;/h2&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;　該当事項はありません。&lt;/p&gt;
+</jpcrp_cor:ParticularsOfSecondaryDistributionNATextBlock>
+  <jpcrp_cor:InformationSpecificToThirdPartyAllotmentNATextBlock contextRef="FilingDateInstant">
+&lt;h2&gt;第３【第三者割当の場合の特記事項】&lt;/h2&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;　該当事項はありません。&lt;/p&gt;
+</jpcrp_cor:InformationSpecificToThirdPartyAllotmentNATextBlock>
+  <jpcrp_cor:OtherInformationSecurityInformationNATextBlock contextRef="FilingDateInstant">
+&lt;h2&gt;第４【その他の記載事項】&lt;/h2&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;　該当事項はありません。&lt;/p&gt;
+</jpcrp_cor:OtherInformationSecurityInformationNATextBlock>
+  <jpcrp_cor:OverviewOfTenderOfferNATextBlock contextRef="FilingDateInstant">
+&lt;h2&gt;第１【公開買付けの概要】&lt;/h2&gt;
+&lt;p style="text-align: left"&gt;　　該当事項はありません。&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:OverviewOfTenderOfferNATextBlock>
+  <jpcrp_cor:CombinedFinancialInformationNATextBlock contextRef="FilingDateInstant">
+&lt;h2&gt;第２【統合財務情報】&lt;/h2&gt;
+&lt;p style="text-align: left"&gt;　　該当事項はありません。&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:CombinedFinancialInformationNATextBlock>
+  <jpcrp_cor:SignificantContractsBetweenIssuerAndOrItsRelatedPartiesAndSubjectCompanyNATextBlock contextRef="FilingDateInstant">
+&lt;h2&gt;第３【発行者（その関連者）と対象者との重要な契約】&lt;/h2&gt;
+&lt;p style="text-align: left"&gt;　　該当事項はありません。&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:SignificantContractsBetweenIssuerAndOrItsRelatedPartiesAndSubjectCompanyNATextBlock>
+  <jpcrp_cor:AnnualSecuritiesReportAndAttachedDocumentsReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;１【有価証券報告書及びその添付書類】&lt;/h3&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;　事業年度　第148期（自　2015年４月１日　至　2016年３月31日） 2016年６月24日関東財務局長に提出&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:AnnualSecuritiesReportAndAttachedDocumentsReferenceDocumentsTextBlock>
+  <jpcrp_cor:QuarterlySecuritiesReportOrSemiAnnualSecuritiesReportReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;２【四半期報告書又は半期報告書】&lt;/h3&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;　事業年度　第149期第１四半期（自　2016年４月１日　至　2016年６月30日） 2016年８月５日関東財務局長に提出&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:QuarterlySecuritiesReportOrSemiAnnualSecuritiesReportReferenceDocumentsTextBlock>
+  <jpcrp120000-rep_E02528-000:QuarterlySecuritiesReportOrSemiAnnualSecuritiesReportReferenceDocuments2TextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;３【四半期報告書又は半期報告書】&lt;/h3&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-weight: normal"&gt;　事業年度　第149期第２四半期（自　2016年７月１日　至　2016年９月30日） 2016年11月８日関東財務局長に提出&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp120000-rep_E02528-000:QuarterlySecuritiesReportOrSemiAnnualSecuritiesReportReferenceDocuments2TextBlock>
+  <jpcrp120000-rep_E02528-000:QuarterlySecuritiesReportOrSemiAnnualSecuritiesReportReferenceDocuments3TextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;４【四半期報告書又は半期報告書】&lt;/h3&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;　事業年度　第149期第３四半期（自　2016年10月１日　至　2016年12月31日） 2017年２月８日関東財務局長に提出&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt; &lt;/p&gt;
+</jpcrp120000-rep_E02528-000:QuarterlySecuritiesReportOrSemiAnnualSecuritiesReportReferenceDocuments3TextBlock>
+  <jpcrp_cor:ExtraordinarySecuritiesReportReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;５【臨時報告書】&lt;/h3&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;　１の有価証券報告書提出後、本発行登録追補書類提出日（2017年５月19日）までに、臨時報告書（金融商品取引法第24条の５第４項及び企業内容等の開示に関する内閣府令第19条第２項第９号の２による）を2016年６月28日に関東財務局長に提出&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:ExtraordinarySecuritiesReportReferenceDocumentsTextBlock>
+  <jpcrp120000-rep_E02528-000:ExtraordinarySecuritiesReportReferenceDocuments2TextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;６【臨時報告書】&lt;/h3&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;　１の有価証券報告書提出後、本発行登録追補書類提出日（2017年５月19日)までに、臨時報告書（金融商品取引法第24条の５第４項及び企業内容等の開示に関する内閣府令第19条第２項第２号の２による）を2016年８月２日に関東財務局長に提出&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp120000-rep_E02528-000:ExtraordinarySecuritiesReportReferenceDocuments2TextBlock>
+  <jpcrp120000-rep_E02528-000:ExtraordinarySecuritiesReportReferenceDocuments3TextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;７【臨時報告書】&lt;/h3&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-weight: normal"&gt;　１の有価証券報告書提出後、本発行登録追補書類提出日（2017年５月19日)までに、臨時報告書（金融商品取引法第24条の５第４項並びに企業内容等の開示に関する内閣府令第19条第２項第12号及び第19号&lt;/span&gt;による）を2017年２月７日に関東財務局長に提出&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp120000-rep_E02528-000:ExtraordinarySecuritiesReportReferenceDocuments3TextBlock>
+  <jpcrp_cor:SupplementaryInformationAboutReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h2&gt;第２【参照書類の補完情報】&lt;/h2&gt;
+&lt;p style="margin-left: 18px; text-align: left"&gt;　参照書類としての有価証券報告書（事業年度　第148期）及び四半期報告書（事業年度　第149期第１四半期、第２四半期及び第３四半期）（以下「有価証券報告書等」という）に記載された「事業等のリスク」について、有価証券報告書等の提出日以後、本発行登録追補書類提出日（2017年５月19日）までの間において生じた変更その他の事由はありません。&lt;/p&gt;
+&lt;p style="margin-left: 18.3333339691162px; text-align: left"&gt;　また、有価証券報告書等には将来に関する事項が記載されておりますが、当該事項は本発行登録追補書類提出日現在においても変更の必要はないと判断しており、新たに記載する将来に関する事項もありません。&lt;/p&gt;
+&lt;p style="margin-left: 18.3333339691162px; text-align: left"&gt;　なお、文中における将来に関する情報は、将来の事象についての現時点における仮定及び予想、並びに当社が現時点で入手している情報や一定の前提に基づいているため、今後の四囲の状況等により変化を余儀なくされるものであり、これらの目標や予想の達成及び将来の業績を保証するものではありません。従って、これらの情報に全面的に依拠されることは控えられ、また、当社がこれらの情報を逐次改訂する義務を負うものではないことをご認識いただくようお願い申し上げます。&lt;/p&gt;
+&lt;p style="margin-left: 18.3333339691162px; text-align: left"&gt; &lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:SupplementaryInformationAboutReferenceDocumentsTextBlock>
+  <jpcrp_cor:PlaceForPublicInspectionOfReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h2&gt;第３【参照書類を縦覧に供している場所】&lt;/h2&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;住友商事株式会社　本店&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;（東京都中央区晴海１丁目８番11号）&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;住友商事株式会社　関西支社（大阪）&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;（大阪市中央区北浜４丁目５番33号）&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;住友商事株式会社　中部支社（名古屋）&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;（名古屋市中村区名駅１丁目１番３号）&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;住友商事株式会社　九州支社（福岡）&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;（福岡市博多区博多駅前３丁目30番23号）&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;株式会社東京証券取引所&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;（東京都中央区日本橋兜町２番１号）&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;株式会社名古屋証券取引所&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;（名古屋市中区栄３丁目８番20号）&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;証券会員制法人福岡証券取引所&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;（福岡市中央区天神２丁目14番２号）&lt;/p&gt;
+&lt;p style="margin-left: 60px; margin-bottom: 19.3333339691162px; text-align: left; text-indent: -60px"&gt;　（注）　上記のうち、九州支社（福岡）は、法定の縦覧場所ではありませんが、投資者の便宜を考慮して縦覧に供する場所としております。&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt; &lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp_cor:PlaceForPublicInspectionOfReferenceDocumentsTextBlock>
+  <jpcrp_cor:InformationAboutGuaranteeCompanyEtcNATextBlock contextRef="FilingDateInstant">
+&lt;h1&gt;第四部【保証会社等の情報】&lt;/h1&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;　該当事項はありません。&lt;/p&gt;
+</jpcrp_cor:InformationAboutGuaranteeCompanyEtcNATextBlock>
+</xbrli:xbrl>

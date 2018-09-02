@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:jplvh010000-lvh_E02528-000="http://disclosure.edinet-fsa.go.jp/jplvh010000/lvh/001/E02528-000/2018-04-02/01/2018-04-05" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:jplvh_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jplvh/2014-07-31/jplvh_cor" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:jpdei_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <link:schemaRef xlink:type="simple" xlink:href="jplvh010000-lvh-001_E02528-000_2018-04-02_01_2018-04-05.xsd"/>
+  <xbrli:context id="FilingDateInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E02528-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2018-04-05</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+  <xbrli:context id="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">
+<xbrli:entity>
+<xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E02528-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2018-04-05</xbrli:instant>
+</xbrli:period>
+<xbrli:scenario>
+<xbrldi:explicitMember dimension="jplvh_cor:FilersLargeVolumeHoldersAndJointHoldersAxis">jplvh010000-lvh_E02528-000:FilerLargeVolumeHolder1Member</xbrldi:explicitMember>
+</xbrli:scenario>
+</xbrli:context>
+  <xbrli:context id="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">
+<xbrli:entity>
+<xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E02528-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2018-04-05</xbrli:instant>
+</xbrli:period>
+<xbrli:scenario>
+<xbrldi:explicitMember dimension="jplvh_cor:FilersLargeVolumeHoldersAndJointHoldersAxis">jplvh010000-lvh_E02528-000:FilerLargeVolumeHolder2Member</xbrldi:explicitMember>
+</xbrli:scenario>
+</xbrli:context>
+  <xbrli:context id="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">
+<xbrli:entity>
+<xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E02528-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2018-04-05</xbrli:instant>
+</xbrli:period>
+<xbrli:scenario>
+<xbrldi:explicitMember dimension="jplvh_cor:FilersLargeVolumeHoldersAndJointHoldersAxis">jplvh010000-lvh_E02528-000:FilerLargeVolumeHolder3Member</xbrldi:explicitMember>
+</xbrli:scenario>
+</xbrli:context>
+  <xbrli:unit id="JPY">
+<xbrli:measure>iso4217:JPY</xbrli:measure>
+</xbrli:unit>
+  <xbrli:unit id="pure">
+<xbrli:measure>xbrli:pure</xbrli:measure>
+</xbrli:unit>
+  <xbrli:unit id="shares">
+<xbrli:measure>xbrli:shares</xbrli:measure>
+</xbrli:unit>
+  <jplvh_cor:TotalNumberOfFilersAndJointHoldersCoverPage contextRef="FilingDateInstant" unitRef="pure" decimals="0">3</jplvh_cor:TotalNumberOfFilersAndJointHoldersCoverPage>
+  <jpdei_cor:NumberOfSubmissionDEI contextRef="FilingDateInstant" unitRef="pure" decimals="0">1</jpdei_cor:NumberOfSubmissionDEI>
+  <jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233MainClause contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares" decimals="0">56558095</jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233MainClause>
+  <jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:SubscriptionRightsToSharesArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:SubscriptionRightsToSharesArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:ConvertibleBondsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:ConvertibleBondsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityCoveredWarrantsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityCoveredWarrantsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityCoveredWarrantsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:StockDepositoryReceiptsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:StockDepositoryReceiptsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:StockDepositoryReceiptsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedDepositoryReceiptsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedDepositoryReceiptsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedDepositoryReceiptsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:StockTrustBeneficiaryRightsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:StockTrustBeneficiaryRightsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:StockTrustBeneficiaryRightsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedTrustBeneficiaryRightsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedTrustBeneficiaryRightsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedTrustBeneficiaryRightsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityRedeemableBondsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityRedeemableBondsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityRedeemableBondsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:ExchangeableBondsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:ExchangeableBondsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:ExchangeableBondsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:TotalArticle27233MainClause contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares" decimals="0">56558095</jplvh_cor:TotalArticle27233MainClause>
+  <jplvh_cor:TotalArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:TotalArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:NumberOfStocksEtcToDeductAsSoldOnMarginTrading xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:NumberOfStocksEtcToDeductAsRightsToDemandExistBetweenJointHolders xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:TotalNumberOfStocksEtcHeld contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares" decimals="0">56558095</jplvh_cor:TotalNumberOfStocksEtcHeld>
+  <jplvh_cor:NumberOfResidualStocksHeld xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares"/>
+  <jplvh_cor:TotalNumberOfOutstandingStocksEtc contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares" decimals="0">302349449</jplvh_cor:TotalNumberOfOutstandingStocksEtc>
+  <jplvh_cor:HoldingRatioOfShareCertificatesEtc contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="pure" decimals="4">0.1871</jplvh_cor:HoldingRatioOfShareCertificatesEtc>
+  <jplvh_cor:HoldingRatioOfShareCertificatesEtcPerLastReport contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="pure" decimals="4">0.1871</jplvh_cor:HoldingRatioOfShareCertificatesEtcPerLastReport>
+  <jplvh_cor:AmountOfOwnFund contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="JPY" decimals="-3">9599484000</jplvh_cor:AmountOfOwnFund>
+  <jplvh_cor:TotalAmountOfBorrowings xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="JPY"/>
+  <jplvh_cor:TotalAmountFromOtherSources xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="JPY"/>
+  <jplvh_cor:TotalAmountOfFundingForAcquisition contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="JPY" decimals="-3">9599484000</jplvh_cor:TotalAmountOfFundingForAcquisition>
+  <jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233MainClause contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares" decimals="0">65628595</jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233MainClause>
+  <jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:SubscriptionRightsToSharesArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:SubscriptionRightsToSharesArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:ConvertibleBondsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:ConvertibleBondsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityCoveredWarrantsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityCoveredWarrantsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityCoveredWarrantsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:StockDepositoryReceiptsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:StockDepositoryReceiptsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:StockDepositoryReceiptsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedDepositoryReceiptsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedDepositoryReceiptsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedDepositoryReceiptsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:StockTrustBeneficiaryRightsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:StockTrustBeneficiaryRightsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:StockTrustBeneficiaryRightsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedTrustBeneficiaryRightsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedTrustBeneficiaryRightsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedTrustBeneficiaryRightsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityRedeemableBondsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityRedeemableBondsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityRedeemableBondsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:ExchangeableBondsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:ExchangeableBondsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:ExchangeableBondsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:TotalArticle27233MainClause contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares" decimals="0">65628595</jplvh_cor:TotalArticle27233MainClause>
+  <jplvh_cor:TotalArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:TotalArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:NumberOfStocksEtcToDeductAsSoldOnMarginTrading xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:NumberOfStocksEtcToDeductAsRightsToDemandExistBetweenJointHolders xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:TotalNumberOfStocksEtcHeld contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares" decimals="0">65628595</jplvh_cor:TotalNumberOfStocksEtcHeld>
+  <jplvh_cor:NumberOfResidualStocksHeld xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares"/>
+  <jplvh_cor:TotalNumberOfOutstandingStocksEtc contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="shares" decimals="0">302349449</jplvh_cor:TotalNumberOfOutstandingStocksEtc>
+  <jplvh_cor:HoldingRatioOfShareCertificatesEtc contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="pure" decimals="4">0.2171</jplvh_cor:HoldingRatioOfShareCertificatesEtc>
+  <jplvh_cor:HoldingRatioOfShareCertificatesEtcPerLastReport contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="pure" decimals="4">0.2171</jplvh_cor:HoldingRatioOfShareCertificatesEtcPerLastReport>
+  <jplvh_cor:AmountOfOwnFund contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="JPY" decimals="-3">11139000000</jplvh_cor:AmountOfOwnFund>
+  <jplvh_cor:TotalAmountOfBorrowings xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="JPY"/>
+  <jplvh_cor:TotalAmountFromOtherSources xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="JPY"/>
+  <jplvh_cor:TotalAmountOfFundingForAcquisition contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member" unitRef="JPY" decimals="-3">11139000000</jplvh_cor:TotalAmountOfFundingForAcquisition>
+  <jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233MainClause contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares" decimals="0">4614000</jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233MainClause>
+  <jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:SubscriptionRightsToSharesArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:SubscriptionRightsToSharesArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:ConvertibleBondsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:ConvertibleBondsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityCoveredWarrantsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityCoveredWarrantsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityCoveredWarrantsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:StockDepositoryReceiptsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:StockDepositoryReceiptsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:StockDepositoryReceiptsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedDepositoryReceiptsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedDepositoryReceiptsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedDepositoryReceiptsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:StockTrustBeneficiaryRightsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:StockTrustBeneficiaryRightsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:StockTrustBeneficiaryRightsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedTrustBeneficiaryRightsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedTrustBeneficiaryRightsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:StockRelatedTrustBeneficiaryRightsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityRedeemableBondsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityRedeemableBondsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityRedeemableBondsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:ExchangeableBondsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:ExchangeableBondsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:ExchangeableBondsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:TotalArticle27233MainClause contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares" decimals="0">4614000</jplvh_cor:TotalArticle27233MainClause>
+  <jplvh_cor:TotalArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:TotalArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:NumberOfStocksEtcToDeductAsSoldOnMarginTrading xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:NumberOfStocksEtcToDeductAsRightsToDemandExistBetweenJointHolders xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:TotalNumberOfStocksEtcHeld contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares" decimals="0">4614000</jplvh_cor:TotalNumberOfStocksEtcHeld>
+  <jplvh_cor:NumberOfResidualStocksHeld xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares"/>
+  <jplvh_cor:TotalNumberOfOutstandingStocksEtc contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="shares" decimals="0">302349449</jplvh_cor:TotalNumberOfOutstandingStocksEtc>
+  <jplvh_cor:HoldingRatioOfShareCertificatesEtc contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="pure" decimals="4">0.0153</jplvh_cor:HoldingRatioOfShareCertificatesEtc>
+  <jplvh_cor:HoldingRatioOfShareCertificatesEtcPerLastReport contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="pure" decimals="4">0.0153</jplvh_cor:HoldingRatioOfShareCertificatesEtcPerLastReport>
+  <jplvh_cor:AmountOfOwnFund xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="JPY"/>
+  <jplvh_cor:TotalAmountOfBorrowings xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="JPY"/>
+  <jplvh_cor:TotalAmountFromOtherSources xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="JPY"/>
+  <jplvh_cor:TotalAmountOfFundingForAcquisition xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member" unitRef="JPY"/>
+  <jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233MainClause contextRef="FilingDateInstant" unitRef="shares" decimals="0">56558095</jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233MainClause>
+  <jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:StocksOrInvestmentSecuritiesEtcArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:SubscriptionRightsToSharesArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:SubscriptionRightsToSharesArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:ConvertibleBondsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:ConvertibleBondsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityCoveredWarrantsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityCoveredWarrantsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityCoveredWarrantsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:StockDepositoryReceiptsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:StockDepositoryReceiptsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:StockDepositoryReceiptsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:StockRelatedDepositoryReceiptsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:StockRelatedDepositoryReceiptsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:StockRelatedDepositoryReceiptsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:StockTrustBeneficiaryRightsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:StockTrustBeneficiaryRightsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:StockTrustBeneficiaryRightsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:StockRelatedTrustBeneficiaryRightsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:StockRelatedTrustBeneficiaryRightsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:StockRelatedTrustBeneficiaryRightsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityRedeemableBondsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityRedeemableBondsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:TargetSecurityRedeemableBondsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:ExchangeableBondsArticle27233MainClause xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:ExchangeableBondsArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:ExchangeableBondsArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:TotalArticle27233MainClause contextRef="FilingDateInstant" unitRef="shares" decimals="0">56558095</jplvh_cor:TotalArticle27233MainClause>
+  <jplvh_cor:TotalArticle27233Item1 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:TotalArticle27233Item2 xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:NumberOfStocksEtcToDeductAsSoldOnMarginTrading xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:NumberOfStocksEtcToDeductAsRightsToDemandExistBetweenJointHolders xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:TotalNumberOfStocksEtcHeld contextRef="FilingDateInstant" unitRef="shares" decimals="0">56558095</jplvh_cor:TotalNumberOfStocksEtcHeld>
+  <jplvh_cor:NumberOfResidualStocksHeld xsi:nil="true" contextRef="FilingDateInstant" unitRef="shares"/>
+  <jplvh_cor:TotalNumberOfOutstandingStocksEtc contextRef="FilingDateInstant" unitRef="shares" decimals="0">302349449</jplvh_cor:TotalNumberOfOutstandingStocksEtc>
+  <jplvh_cor:HoldingRatioOfShareCertificatesEtc contextRef="FilingDateInstant" unitRef="pure" decimals="4">0.1871</jplvh_cor:HoldingRatioOfShareCertificatesEtc>
+  <jplvh_cor:HoldingRatioOfShareCertificatesEtcPerLastReport contextRef="FilingDateInstant" unitRef="pure" decimals="4">0.4194</jplvh_cor:HoldingRatioOfShareCertificatesEtcPerLastReport>
+  <jplvh_cor:TotalNumberOfStocksEtcHeld contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="shares" decimals="0">56558095</jplvh_cor:TotalNumberOfStocksEtcHeld>
+  <jplvh_cor:HoldingRatioOfShareCertificatesEtc contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member" unitRef="pure" decimals="4">0.1871</jplvh_cor:HoldingRatioOfShareCertificatesEtc>
+  <jplvh_cor:TotalNumberOfStocksEtcHeld contextRef="FilingDateInstant" unitRef="shares" decimals="0">56558095</jplvh_cor:TotalNumberOfStocksEtcHeld>
+  <jplvh_cor:HoldingRatioOfShareCertificatesEtc contextRef="FilingDateInstant" unitRef="pure" decimals="4">0.1871</jplvh_cor:HoldingRatioOfShareCertificatesEtc>
+  <jplvh_cor:DocumentTitleCoverPage contextRef="FilingDateInstant">変更報告書 No.16</jplvh_cor:DocumentTitleCoverPage>
+  <jplvh_cor:ClauseOfStipulationCoverPage contextRef="FilingDateInstant">法第27条の25第1項</jplvh_cor:ClauseOfStipulationCoverPage>
+  <jplvh_cor:PlaceOfFilingCoverPage contextRef="FilingDateInstant">関東財務局長</jplvh_cor:PlaceOfFilingCoverPage>
+  <jplvh_cor:NameCoverPage contextRef="FilingDateInstant">住友商事株式会社代表取締役 専務執行役員 CFO 高畑 恒一</jplvh_cor:NameCoverPage>
+  <jplvh_cor:ResidentialAddressOrAddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">東京都中央区晴海一丁目8番11号</jplvh_cor:ResidentialAddressOrAddressOfRegisteredHeadquarterCoverPage>
+  <jplvh_cor:DateWhenFilingRequirementAroseCoverPage contextRef="FilingDateInstant">2018-04-02</jplvh_cor:DateWhenFilingRequirementAroseCoverPage>
+  <jplvh_cor:FilingDateCoverPage contextRef="FilingDateInstant">2018-04-05</jplvh_cor:FilingDateCoverPage>
+  <jplvh_cor:ArrangementOfFilingCoverPage contextRef="FilingDateInstant">連名</jplvh_cor:ArrangementOfFilingCoverPage>
+  <jplvh_cor:ReasonForFilingChangeReportCoverPage contextRef="FilingDateInstant">当該株券等に関する担保契約等重要な契約の変更発行済株式等総数に対する保有割合が1％以上減少したこと共同保有者の減少</jplvh_cor:ReasonForFilingChangeReportCoverPage>
+  <jplvh_cor:ReasonForFilingChangeReportCoverPageNA xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:EDINETCodeDEI contextRef="FilingDateInstant">E02528</jpdei_cor:EDINETCodeDEI>
+  <jpdei_cor:FundCodeDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:SecurityCodeDEI contextRef="FilingDateInstant">80530</jpdei_cor:SecurityCodeDEI>
+  <jpdei_cor:FilerNameInJapaneseDEI contextRef="FilingDateInstant">住友商事株式会社</jpdei_cor:FilerNameInJapaneseDEI>
+  <jpdei_cor:FilerNameInEnglishDEI contextRef="FilingDateInstant">SUMITOMO CORPORATION</jpdei_cor:FilerNameInEnglishDEI>
+  <jpdei_cor:FundNameInJapaneseDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:FundNameInEnglishDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CabinetOfficeOrdinanceDEI contextRef="FilingDateInstant">株券等の大量保有の状況の開示に関する内閣府令</jpdei_cor:CabinetOfficeOrdinanceDEI>
+  <jpdei_cor:DocumentTypeDEI contextRef="FilingDateInstant">第一号様式</jpdei_cor:DocumentTypeDEI>
+  <jpdei_cor:AccountingStandardsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:WhetherConsolidatedFinancialStatementsArePreparedDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenConsolidatedFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentPeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:TypeOfCurrentPeriodDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ComparativePeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:NextFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:EndDateOfQuarterlyOrSemiAnnualPeriodOfNextFiscalYearDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:AmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:AmendmentFlagDEI>
+  <jpdei_cor:IdentificationOfDocumentSubjectToAmendmentDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ReportAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:ReportAmendmentFlagDEI>
+  <jpdei_cor:XBRLAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:XBRLAmendmentFlagDEI>
+  <jplvh_cor:EDINETCodeDEI contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">E02528</jplvh_cor:EDINETCodeDEI>
+  <jplvh_cor:SecurityCodeDEI contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">80530</jplvh_cor:SecurityCodeDEI>
+  <jplvh_cor:FilerNameInJapaneseDEI contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">住友商事株式会社</jplvh_cor:FilerNameInJapaneseDEI>
+  <jplvh_cor:FilerNameInEnglishDEI contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">SUMITOMO CORPORATION</jplvh_cor:FilerNameInEnglishDEI>
+  <jplvh_cor:EDINETCodeDEI contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">E01225</jplvh_cor:EDINETCodeDEI>
+  <jplvh_cor:SecurityCodeDEI contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">54010</jplvh_cor:SecurityCodeDEI>
+  <jplvh_cor:FilerNameInJapaneseDEI contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">新日鐵住金株式会社</jplvh_cor:FilerNameInJapaneseDEI>
+  <jplvh_cor:FilerNameInEnglishDEI contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">NIPPON STEEL &amp; SUMITOMO METAL CORPORATION</jplvh_cor:FilerNameInEnglishDEI>
+  <jplvh_cor:EDINETCodeDEI contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">E26712</jplvh_cor:EDINETCodeDEI>
+  <jplvh_cor:SecurityCodeDEI contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">54130</jplvh_cor:SecurityCodeDEI>
+  <jplvh_cor:FilerNameInJapaneseDEI contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">日新製鋼株式会社</jplvh_cor:FilerNameInJapaneseDEI>
+  <jplvh_cor:FilerNameInEnglishDEI contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">Nisshin Steel Co., Ltd.</jplvh_cor:FilerNameInEnglishDEI>
+  <jplvh_cor:NameOfIssuer contextRef="FilingDateInstant">日本コークス工業株式会社</jplvh_cor:NameOfIssuer>
+  <jplvh_cor:SecurityCodeOfIssuer contextRef="FilingDateInstant">3315</jplvh_cor:SecurityCodeOfIssuer>
+  <jplvh_cor:ListedOrOTC contextRef="FilingDateInstant">上場</jplvh_cor:ListedOrOTC>
+  <jplvh_cor:StockListing contextRef="FilingDateInstant">東京</jplvh_cor:StockListing>
+  <jplvh_cor:IndividualOrCorporation contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">法人（株式会社）</jplvh_cor:IndividualOrCorporation>
+  <jplvh_cor:Name contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">住友商事株式会社</jplvh_cor:Name>
+  <jplvh_cor:ResidentialAddressOrAddressOfRegisteredHeadquarter contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">東京都中央区晴海一丁目8番11号</jplvh_cor:ResidentialAddressOrAddressOfRegisteredHeadquarter>
+  <jplvh_cor:FormerName xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:FormerResidentialAddressOrAddressOfRegisteredHeadquarter xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:DateOfBirth xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:Occupation xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:NameOfEmployer xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:AddressOfEmployer xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:DateOfEstablishment contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">1919-12-24</jplvh_cor:DateOfEstablishment>
+  <jplvh_cor:NameOfRepresentative contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">高畑 恒一</jplvh_cor:NameOfRepresentative>
+  <jplvh_cor:JobTitleOfRepresentative contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">代表取締役 専務執行役員 CFO</jplvh_cor:JobTitleOfRepresentative>
+  <jplvh_cor:DescriptionOfBusiness contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">金属・機械・化学品・燃料・食糧・食品・繊維・物資等各種商品の国内及び貿易取引（外国間取引を含む）の他、情報産業関連事業・建設不動産事業・サービス関連事業等</jplvh_cor:DescriptionOfBusiness>
+  <jplvh_cor:ContactInformationAndPerson contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">コーポレート経理部　投資管理・会計総括チーム（担当者：松浦　清治）</jplvh_cor:ContactInformationAndPerson>
+  <jplvh_cor:TelephoneNumber contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">03（5166）5930</jplvh_cor:TelephoneNumber>
+  <jplvh_cor:PurposeOfHolding contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">政策投資</jplvh_cor:PurposeOfHolding>
+  <jplvh_cor:ActOfMakingImportantProposalEtc xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:ActOfMakingImportantProposalEtcNA contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">該当なし</jplvh_cor:ActOfMakingImportantProposalEtcNA>
+  <jplvh_cor:NotesNumberOfStocksEtcHeldTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:BaseDate contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">2018-04-02</jplvh_cor:BaseDate>
+  <jplvh_cor:NotesHoldingRatioOfShareCertificatesEtcTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:DetailsOfAcquisitionsAndDisposalsOfStocksEtcIssuedByIssuerOfSaidStocksEtcDuringLast60DaysTextBlock contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">
+&lt;h4&gt;（５）【当該株券等の発行者の発行する株券等に関する最近60日間の取得又は処分の状況】&lt;/h4&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td style="width:28mm;"&gt;年月日&lt;/td&gt;&lt;td class="COL_NOBR"&gt;株券等の種類&lt;/td&gt;&lt;td class="COL_NOBR"&gt;数量&lt;/td&gt;&lt;td class="COL_NOBR"&gt;割合&lt;/td&gt;&lt;td class="COL_NOBR"&gt;市場内外取引の別&lt;/td&gt;&lt;td class="COL_NOBR"&gt;取得又は処分の別&lt;/td&gt;&lt;td class="COL_NOBR"&gt;単価&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="COL_L"&gt;平成30年3月23日&lt;/td&gt;&lt;td class="COL_L"&gt;普通株式&lt;/td&gt;&lt;td class="COL_R"&gt;9,070,500&lt;/td&gt;&lt;td class="COL_R"&gt;3.00&lt;/td&gt;&lt;td class="COL_L"&gt;市場外&lt;/td&gt;&lt;td class="COL_L"&gt;処分&lt;/td&gt;&lt;td class="COL_R"&gt;107&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+</jplvh_cor:DetailsOfAcquisitionsAndDisposalsOfStocksEtcIssuedByIssuerOfSaidStocksEtcDuringLast60DaysTextBlock>
+  <jplvh_cor:DetailsOfAcquisitionsAndDisposalsOfStocksEtcIssuedByIssuerOfSaidStocksEtcDuringLast60DaysNATextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:SignificantContractsRelatedToSaidStocksEtcSuchAsCollateralAgreementsTextBlock contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">
+&lt;h4&gt;（６）【当該株券等に関する担保契約等重要な契約】&lt;/h4&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td class="COL_L"&gt;・住友商事株式会社は、新日鉄住金株式会社との間で、当該株券等に関し、原則として共同して議決権を行使することを内容とする契約を締結しておりましたが、平成30年4月2日付で当該契約を解消しました。&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+</jplvh_cor:SignificantContractsRelatedToSaidStocksEtcSuchAsCollateralAgreementsTextBlock>
+  <jplvh_cor:SignificantContractsRelatedToSaidStocksEtcSuchAsCollateralAgreementsNA xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:BreakdownOfTotalAmountFromOtherSources xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:NotesFundingForAcquisitionOfStocksEtcHeldTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:BreakdownOfBorrowingsTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:BreakdownOfBorrowingsNATextBlock contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">
+&lt;h5&gt;②【借入金の内訳】&lt;/h5&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td class="COL_NOBR"&gt;名称（支店名）&lt;/td&gt;&lt;td class="COL_NOBR"&gt;業種&lt;/td&gt;&lt;td class="COL_NOBR"&gt;代表者氏名&lt;/td&gt;&lt;td class="COL_NOBR"&gt;所在地&lt;/td&gt;&lt;td class="COL_NOBR"&gt;借入&lt;br/&gt;目的&lt;/td&gt;&lt;td class="COL_NOBR"&gt;金額&lt;br/&gt;（千円）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td/&gt;&lt;td class="COL_R"/&gt;&lt;/tr&gt;
+&lt;/table&gt;
+</jplvh_cor:BreakdownOfBorrowingsNATextBlock>
+  <jplvh_cor:NamesEtcOfCreditorsTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member"/>
+  <jplvh_cor:NamesEtcOfCreditorsNATextBlock contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">
+&lt;h5&gt;③【借入先の名称等】&lt;/h5&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td class="COL_NOBR"&gt;名称（支店名）&lt;/td&gt;&lt;td class="COL_NOBR"&gt;代表者氏名&lt;/td&gt;&lt;td class="COL_NOBR"&gt;所在地&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;/tr&gt;
+&lt;/table&gt;
+</jplvh_cor:NamesEtcOfCreditorsNATextBlock>
+  <jplvh_cor:IndividualOrCorporation contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">法人（株式会社）</jplvh_cor:IndividualOrCorporation>
+  <jplvh_cor:Name contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">新日鐵住金株式会社</jplvh_cor:Name>
+  <jplvh_cor:ResidentialAddressOrAddressOfRegisteredHeadquarter contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">東京都千代田区丸の内二丁目６番１号</jplvh_cor:ResidentialAddressOrAddressOfRegisteredHeadquarter>
+  <jplvh_cor:FormerName xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:FormerResidentialAddressOrAddressOfRegisteredHeadquarter xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:DateOfBirth xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:Occupation xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:NameOfEmployer xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:AddressOfEmployer xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:DateOfEstablishment contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">1950-04-01</jplvh_cor:DateOfEstablishment>
+  <jplvh_cor:NameOfRepresentative contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">進藤 孝生</jplvh_cor:NameOfRepresentative>
+  <jplvh_cor:JobTitleOfRepresentative contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">代表取締役社長</jplvh_cor:JobTitleOfRepresentative>
+  <jplvh_cor:DescriptionOfBusiness contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">1.鉄鋼の製造・販売　2.産業機械・装置、鋼構造物、水道設備等の製造・販売　3.建設工事の請負及び建築物の設計・工事監理　4.化学製品、電子部品等の製造・販売　5.非鉄金属、セラミックス、炭素繊維等の製造・販売　6.コンピュータシステムの利用・開発に係るエンジニアリング・コンサルティング　7.貨物の運送及び倉庫事業　8.電気・ガス・熱等の供給事業　9.廃棄物処理・再生処理事業　10.不動産の売買・貸借・仲介　11.文化・福祉・スポーツ・研修施設等の運営　12.前各号に附帯する事業</jplvh_cor:DescriptionOfBusiness>
+  <jplvh_cor:ContactInformationAndPerson contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">関係会社部　主幹　山崎　智彦</jplvh_cor:ContactInformationAndPerson>
+  <jplvh_cor:TelephoneNumber contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">03-6867-2634</jplvh_cor:TelephoneNumber>
+  <jplvh_cor:PurposeOfHolding contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">政策投資</jplvh_cor:PurposeOfHolding>
+  <jplvh_cor:ActOfMakingImportantProposalEtc xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:ActOfMakingImportantProposalEtcNA contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">該当なし</jplvh_cor:ActOfMakingImportantProposalEtcNA>
+  <jplvh_cor:NotesNumberOfStocksEtcHeldTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:BaseDate contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">2018-04-02</jplvh_cor:BaseDate>
+  <jplvh_cor:NotesHoldingRatioOfShareCertificatesEtcTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:DetailsOfAcquisitionsAndDisposalsOfStocksEtcIssuedByIssuerOfSaidStocksEtcDuringLast60DaysTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:DetailsOfAcquisitionsAndDisposalsOfStocksEtcIssuedByIssuerOfSaidStocksEtcDuringLast60DaysNATextBlock contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">
+&lt;h4&gt;（５）【当該株券等の発行者の発行する株券等に関する最近60日間の取得又は処分の状況】&lt;/h4&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td style="width:28mm;"&gt;年月日&lt;/td&gt;&lt;td class="COL_NOBR"&gt;株券等の種類&lt;/td&gt;&lt;td class="COL_NOBR"&gt;数量&lt;/td&gt;&lt;td class="COL_NOBR"&gt;割合&lt;/td&gt;&lt;td class="COL_NOBR"&gt;市場内外取引の別&lt;/td&gt;&lt;td class="COL_NOBR"&gt;取得又は処分の別&lt;/td&gt;&lt;td class="COL_NOBR"&gt;単価&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_R"/&gt;&lt;td class="COL_R"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_R"/&gt;&lt;/tr&gt;
+&lt;/table&gt;
+</jplvh_cor:DetailsOfAcquisitionsAndDisposalsOfStocksEtcIssuedByIssuerOfSaidStocksEtcDuringLast60DaysNATextBlock>
+  <jplvh_cor:SignificantContractsRelatedToSaidStocksEtcSuchAsCollateralAgreementsTextBlock contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">
+&lt;h4&gt;（６）【当該株券等に関する担保契約等重要な契約】&lt;/h4&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td class="COL_L"&gt;・新日鉄住金株式会社は、住友商事株式会社との間で、当該株券等に関し、原則として共同して議決権を行使することを内容とする契約を締結しておりましたが、平成30年4月2日付で当該契約を解消しました。&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+</jplvh_cor:SignificantContractsRelatedToSaidStocksEtcSuchAsCollateralAgreementsTextBlock>
+  <jplvh_cor:SignificantContractsRelatedToSaidStocksEtcSuchAsCollateralAgreementsNA xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:BreakdownOfTotalAmountFromOtherSources xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:NotesFundingForAcquisitionOfStocksEtcHeldTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:BreakdownOfBorrowingsTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:BreakdownOfBorrowingsNATextBlock contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">
+&lt;h5&gt;②【借入金の内訳】&lt;/h5&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td class="COL_NOBR"&gt;名称（支店名）&lt;/td&gt;&lt;td class="COL_NOBR"&gt;業種&lt;/td&gt;&lt;td class="COL_NOBR"&gt;代表者氏名&lt;/td&gt;&lt;td class="COL_NOBR"&gt;所在地&lt;/td&gt;&lt;td class="COL_NOBR"&gt;借入&lt;br/&gt;目的&lt;/td&gt;&lt;td class="COL_NOBR"&gt;金額&lt;br/&gt;（千円）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td/&gt;&lt;td class="COL_R"/&gt;&lt;/tr&gt;
+&lt;/table&gt;
+</jplvh_cor:BreakdownOfBorrowingsNATextBlock>
+  <jplvh_cor:NamesEtcOfCreditorsTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member"/>
+  <jplvh_cor:NamesEtcOfCreditorsNATextBlock contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder2Member">
+&lt;h5&gt;③【借入先の名称等】&lt;/h5&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td class="COL_NOBR"&gt;名称（支店名）&lt;/td&gt;&lt;td class="COL_NOBR"&gt;代表者氏名&lt;/td&gt;&lt;td class="COL_NOBR"&gt;所在地&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;/tr&gt;
+&lt;/table&gt;
+</jplvh_cor:NamesEtcOfCreditorsNATextBlock>
+  <jplvh_cor:IndividualOrCorporation contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">法人（株式会社）</jplvh_cor:IndividualOrCorporation>
+  <jplvh_cor:Name contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">日新製鋼株式会社</jplvh_cor:Name>
+  <jplvh_cor:ResidentialAddressOrAddressOfRegisteredHeadquarter contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">東京都千代田区丸の内三丁目４番１号</jplvh_cor:ResidentialAddressOrAddressOfRegisteredHeadquarter>
+  <jplvh_cor:FormerName xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member"/>
+  <jplvh_cor:FormerResidentialAddressOrAddressOfRegisteredHeadquarter xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member"/>
+  <jplvh_cor:DateOfBirth xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member"/>
+  <jplvh_cor:Occupation xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member"/>
+  <jplvh_cor:NameOfEmployer xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member"/>
+  <jplvh_cor:AddressOfEmployer xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member"/>
+  <jplvh_cor:DateOfEstablishment contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">2012-10-01</jplvh_cor:DateOfEstablishment>
+  <jplvh_cor:NameOfRepresentative contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">栁川 欽也</jplvh_cor:NameOfRepresentative>
+  <jplvh_cor:JobTitleOfRepresentative contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">代表取締役社長</jplvh_cor:JobTitleOfRepresentative>
+  <jplvh_cor:DescriptionOfBusiness contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">鉄鋼業</jplvh_cor:DescriptionOfBusiness>
+  <jplvh_cor:ContactInformationAndPerson contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">日新製鋼株式会社経営企画部 担当部長　渡辺直英</jplvh_cor:ContactInformationAndPerson>
+  <jplvh_cor:TelephoneNumber contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">03-3216-5511（代表）</jplvh_cor:TelephoneNumber>
+  <jplvh_cor:PurposeOfHolding contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">政策投資</jplvh_cor:PurposeOfHolding>
+  <jplvh_cor:ActOfMakingImportantProposalEtc xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member"/>
+  <jplvh_cor:ActOfMakingImportantProposalEtcNA contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">該当なし</jplvh_cor:ActOfMakingImportantProposalEtcNA>
+  <jplvh_cor:NotesNumberOfStocksEtcHeldTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member"/>
+  <jplvh_cor:BaseDate contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">2018-04-02</jplvh_cor:BaseDate>
+  <jplvh_cor:NotesHoldingRatioOfShareCertificatesEtcTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member"/>
+  <jplvh_cor:DetailsOfAcquisitionsAndDisposalsOfStocksEtcIssuedByIssuerOfSaidStocksEtcDuringLast60DaysTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member"/>
+  <jplvh_cor:DetailsOfAcquisitionsAndDisposalsOfStocksEtcIssuedByIssuerOfSaidStocksEtcDuringLast60DaysNATextBlock contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">
+&lt;h4&gt;（５）【当該株券等の発行者の発行する株券等に関する最近60日間の取得又は処分の状況】&lt;/h4&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td style="width:28mm;"&gt;年月日&lt;/td&gt;&lt;td class="COL_NOBR"&gt;株券等の種類&lt;/td&gt;&lt;td class="COL_NOBR"&gt;数量&lt;/td&gt;&lt;td class="COL_NOBR"&gt;割合&lt;/td&gt;&lt;td class="COL_NOBR"&gt;市場内外取引の別&lt;/td&gt;&lt;td class="COL_NOBR"&gt;取得又は処分の別&lt;/td&gt;&lt;td class="COL_NOBR"&gt;単価&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_R"/&gt;&lt;td class="COL_R"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_R"/&gt;&lt;/tr&gt;
+&lt;/table&gt;
+</jplvh_cor:DetailsOfAcquisitionsAndDisposalsOfStocksEtcIssuedByIssuerOfSaidStocksEtcDuringLast60DaysNATextBlock>
+  <jplvh_cor:SignificantContractsRelatedToSaidStocksEtcSuchAsCollateralAgreementsTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member"/>
+  <jplvh_cor:SignificantContractsRelatedToSaidStocksEtcSuchAsCollateralAgreementsNA contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">該当なし</jplvh_cor:SignificantContractsRelatedToSaidStocksEtcSuchAsCollateralAgreementsNA>
+  <jplvh_cor:BreakdownOfTotalAmountFromOtherSources contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">平成26年4月1日付吸収合併による承継 (4,614,000株)</jplvh_cor:BreakdownOfTotalAmountFromOtherSources>
+  <jplvh_cor:NotesFundingForAcquisitionOfStocksEtcHeldTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member"/>
+  <jplvh_cor:BreakdownOfBorrowingsTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member"/>
+  <jplvh_cor:BreakdownOfBorrowingsNATextBlock contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">
+&lt;h5&gt;②【借入金の内訳】&lt;/h5&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td class="COL_NOBR"&gt;名称（支店名）&lt;/td&gt;&lt;td class="COL_NOBR"&gt;業種&lt;/td&gt;&lt;td class="COL_NOBR"&gt;代表者氏名&lt;/td&gt;&lt;td class="COL_NOBR"&gt;所在地&lt;/td&gt;&lt;td class="COL_NOBR"&gt;借入&lt;br/&gt;目的&lt;/td&gt;&lt;td class="COL_NOBR"&gt;金額&lt;br/&gt;（千円）&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td/&gt;&lt;td class="COL_R"/&gt;&lt;/tr&gt;
+&lt;/table&gt;
+</jplvh_cor:BreakdownOfBorrowingsNATextBlock>
+  <jplvh_cor:NamesEtcOfCreditorsTextBlock xsi:nil="true" contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member"/>
+  <jplvh_cor:NamesEtcOfCreditorsNATextBlock contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder3Member">
+&lt;h5&gt;③【借入先の名称等】&lt;/h5&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td class="COL_NOBR"&gt;名称（支店名）&lt;/td&gt;&lt;td class="COL_NOBR"&gt;代表者氏名&lt;/td&gt;&lt;td class="COL_NOBR"&gt;所在地&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;td class="COL_L"/&gt;&lt;/tr&gt;
+&lt;/table&gt;
+</jplvh_cor:NamesEtcOfCreditorsNATextBlock>
+  <jplvh_cor:InformationAboutJointHoldersNA contextRef="FilingDateInstant">該当事項なし</jplvh_cor:InformationAboutJointHoldersNA>
+  <jplvh_cor:Name contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">住友商事株式会社</jplvh_cor:Name>
+  <jplvh_cor:NotesNumberOfStocksEtcHeldTextBlock xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jplvh_cor:BaseDate contextRef="FilingDateInstant">2018-04-02</jplvh_cor:BaseDate>
+  <jplvh_cor:NotesHoldingRatioOfShareCertificatesEtcTextBlock xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jplvh_cor:Name contextRef="FilingDateInstant_jplvh010000-lvh_E02528-000FilerLargeVolumeHolder1Member">住友商事株式会社</jplvh_cor:Name>
+</xbrli:xbrl>
