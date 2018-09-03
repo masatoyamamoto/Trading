@@ -1,6 +1,7 @@
-import unittest
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import Select
 from configure import *
 
 
@@ -22,10 +23,15 @@ class TradingInFirsTrade():
         driver.find_element_by_name("username").send_keys(self.username)
         # Login password
         driver.find_element_by_name("password").send_keys(self.password)
+
+        # Set the destination page
+        dest_page = driver.find_element_by_name("destination_page")
+        dest_page_element = Select(dest_page)
+        dest_page_element.select_by_value("stock_order")
+
         driver.find_element_by_id("loginButton").click()
 
-        # enter pin
-        driver.find_element_by_name("pin").send_keys(self.pin)
+        driver.find_element_by_xpath('div[@class="pin_inner"]').send_keys(self.pin)
 
         print(driver.title)
 
@@ -36,7 +42,7 @@ class TradingInFirsTrade():
         print("buy")
         driver = self.driver
 
-        # TODO: adjust according to the structure of Rakuten-sec
+        # TODO: adjust according to the structure of FirsTrade
         # select buy a stock
 
         # input a code
