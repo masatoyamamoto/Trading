@@ -5,12 +5,13 @@ from configure import *
 
 
 class TradingInFirsTrade():
-    def __init__(self, username, password):
-        self.username = username
-        self.password = password
+    def __init__(self):
+        self.username = Firstrade_USERNAME
+        self.password = Firstrade_PASSWORD
+        self.pin = Firstrade_PIN
         self.driver = webdriver.Chrome("./venv/chromedriver")
 
-    def logInToRakuten(self, signal=1):
+    def logIn(self, signal=1):
         driver = self.driver
 
         # access to FirsTrade
@@ -21,8 +22,10 @@ class TradingInFirsTrade():
         driver.find_element_by_name("username").send_keys(self.username)
         # Login password
         driver.find_element_by_name("password").send_keys(self.password)
-
         driver.find_element_by_id("loginButton").click()
+
+        # enter pin
+        driver.find_element_by_name("pin").send_keys(self.pin)
 
         print(driver.title)
 
@@ -43,6 +46,5 @@ class TradingInFirsTrade():
         print("sell")
 
 
-Trd = TradingInFirsTrade(Firstrade_USERNAME, Firstrade_PASSWORD)
-Trd.logInToRakuten()
-Trd.tearDown()
+Trd = TradingInFirsTrade()
+Trd.logIn()
