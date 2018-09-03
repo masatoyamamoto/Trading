@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 from configure import *
 
 
-class TradingInRakutenSec():
+class TradingInFirsTrade():
     def __init__(self, username, password):
         self.username = username
         self.password = password
@@ -13,17 +13,18 @@ class TradingInRakutenSec():
     def logInToRakuten(self, signal=1):
         driver = self.driver
 
-        # URL of Rakuten sec
-        # access to Rakuten sec
-        url = "https://www.rakuten-sec.co.jp/ITS/V_ACT_Login.html"
+        # access to FirsTrade
+        url = "https://invest.firstrade.com/cgi-bin/login"
         driver.get(url)
 
         # Login ID
-        driver.find_element_by_name("loginid").send_keys(self.username)
+        driver.find_element_by_name("username").send_keys(self.username)
         # Login password
-        driver.find_element_by_name("passwd").send_keys(self.password)
+        driver.find_element_by_name("password").send_keys(self.password)
 
-        driver.find_element_by_id("login-btn").click()
+        driver.find_element_by_id("loginButton").click()
+
+        print(driver.title)
 
     def tearDown(self):
         self.driver.close()
@@ -34,13 +35,14 @@ class TradingInRakutenSec():
 
         # TODO: adjust according to the structure of Rakuten-sec
         # select buy a stock
-        
+
         # input a code
         # set the price
 
     def sell(self):
         print("sell")
 
-Trd = TradingInRakutenSec(Rakuten_USERNAME, Rakuten_PASSWORD)
+
+Trd = TradingInFirsTrade(Firstrade_USERNAME, Firstrade_PASSWORD)
 Trd.logInToRakuten()
 Trd.tearDown()
