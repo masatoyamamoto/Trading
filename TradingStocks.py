@@ -1,46 +1,28 @@
-import unittest
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from configure import *
+import inline as inline
+from pandas_datareader import data as web
+import datetime
+from matplotlib import pylab as plt
+import numpy as np
+from scipy import stats
+import seaborn
+from matplotlib.pylab import rcParams
+import statsmodels.api as sm
+import pandas
 
+rcParams['figure.figsize'] = 15, 6
+# getting nikkei225 and Dow jones by python
+# https:/qiita.com/akichikn/items/782033e746c7ee6832f5
 
-class TradingInRakutenSec():
-    def __init__(self, username, password):
-        self.username = username
-        self.password = password
-        self.driver = webdriver.Chrome("./venv/chromedriver")
+start = datetime.date(2010, 5, 16)
+end = datetime.date(2018, 7, 18)
+df = web.DataReader(["NIKKEI225","WILLREITIND"], "fred", start, end)
 
-    def logInToRakuten(self, signal=1):
-        driver = self.driver
+df_diff = df.pct_change()
 
-        # URL of Rakuten sec
-        # access to Rakuten sec
-        url = "https://www.rakuten-sec.co.jp/ITS/V_ACT_Login.html"
-        driver.get(url)
+# US REITの分析
+# https://www.mazarimono.net/entry/2018/07/20/pandas_datareader
 
-        # Login ID
-        driver.find_element_by_name("loginid").send_keys(self.username)
-        # Login password
-        driver.find_element_by_name("passwd").send_keys(self.password)
-
-        driver.find_element_by_id("login-btn").click()
-
-    def tearDown(self):
-        self.driver.close()
-
-    def buy(self, code):
-        print("buy")
-        driver = self.driver
-
-        # TODO: adjust according to the structure of Rakuten-sec
-        # select buy a stock
-        
-        # input a code
-        # set the price
-
-    def sell(self):
-        print("sell")
-
-Trd = TradingInRakutenSec(Rakuten_USERNAME, Rakuten_PASSWORD)
-Trd.logInToRakuten()
-Trd.tearDown()
+df_diff_2 = df_diff.rolling(20).std() * np.sqrt(365)
+df_diff_2 = df_diff_2.dropna()
+df_diff_2.plot()
+plt.show()
