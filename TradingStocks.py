@@ -24,6 +24,7 @@ df_diff.plot()
 
 # US REITの分析
 # https://www.mazarimono.net/entry/2018/07/20/pandas_datareader
+# https://momonoki2017.blogspot.com/2018/02/python1.html
 
 df_diff_2 = df_diff.rolling(20).std() * np.sqrt(365)
 df_diff_2 = df_diff_2.dropna()
